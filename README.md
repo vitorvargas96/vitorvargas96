@@ -8,6 +8,18 @@ In addition to my technical expertise, I'm well-versed in DevOps tools such as T
 
 Overall, I'm a highly motivated and dedicated developer who takes pride in delivering exceptional results. I'm excited to continue learning, growing, and contributing to the world of technology in meaningful ways.
 
+------
+
+初めまして！ヴィトールと言います！私はソフトウェア開発に対して非常に情熱的で、独学でプログラミングを勉強しました。また、私は知的好奇心が強いので、新しい知識や革新的な技術を常に追い求めています。
+
+開発者として、JavaScript、TypeScript、Python、PHPなどのさまざまなプログラミング言語を熟知しており、フロントエンドとバックエンドの両方に精通しています。Vue.js、TailwindCSS、Laravelなどの現代的なフレームワークでの作業も可能です。MySQL、MariaDB、PostgreSQL、SQLiteなどのデータベース管理の経験もあります。
+
+また、技術的な専門知識に加えて、Terraform、Docker、PackerなどのDevOpsツールにも精通しており、HerokuやDigitalOceanなどのクラウドプラットフォームでの作業経験もあります。Nginxを使用したWebサーバー管理の経験もあります。
+
+全体的に良い製品を提供できるのが自慢です。私は開発者としてものすごくやる気があります。今後も学び、成長し、意義のある方法でIT業界に貢献することを楽しみにしています。
+
+------
+
 # Languages and tools
 
 ### Front End
