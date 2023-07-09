@@ -20,6 +20,8 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 
 ------
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649d07e9d99c9d67319eb772?variant=dark)](https://roadmap.sh)
+
 # Languages and tools
 
 ### Front End
