@@ -19,7 +19,7 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 全体的に良い製品を提供できるのが自慢です。私は開発者としてものすごくやる気があります。今後も学び、成長し、意義のある方法でIT業界に貢献することを楽しみにしています。
 
 ------
-![](https://github-readme-stats.vercel.app/api/wakatime?username=vitorvargas&api_domain=wakadata.pages.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=vitorvargas&api_domain=worker-small-flower-47ce.instalando.workers.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649d07e9d99c9d67319eb772?variant=dark&roadmaps=golang%2Cbackend%2Cvue%2Cdevops)](https://roadmap.sh)
 
