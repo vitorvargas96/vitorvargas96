@@ -81,13 +81,17 @@ func loadJSON(filename string) (File, error) {
 func getLanguages(data File) string {
 	var langs string
 
+	langs += fmt.Sprintf("```")
+
 	for _, language := range data.Data.Languages {
 		if language.Name == "unknown" || language.Percent == 0 {
 			continue
 		}
 
-		langs += fmt.Sprintf("```**%s**: %dh %dm %ds\n```", language.Name, language.Hours, language.Minutes, language.Seconds)
+		langs += fmt.Sprintf("**%s**: %dh %dm %ds\n", language.Name, language.Hours, language.Minutes, language.Seconds)
 	}
+
+	langs += fmt.Sprintf("```")
 
 	return langs
 }
