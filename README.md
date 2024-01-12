@@ -21,17 +21,16 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 ------
 <!--DEVTIMER:START-->
 ```txt
-TypeScript          8 hrs 31 mins   ██████████████░░░░░░░░░░░    59.84 %
-Go                  2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░    15.44 %
-YAML                1 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    10.58 %
-Bash                0 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░    6.19 %
-JavaScript          0 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    3.28 %
-JSON                0 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    2.00 %
-Markdown            0 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    1.25 %
-Text                0 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░    0.43 %
+TypeScript          8 hrs 32 mins   ██████████████░░░░░░░░░░░    59.36 %
+Go                  2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░    15.74 %
+YAML                1 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    10.50 %
+Bash                0 hrs 55 mins   █░░░░░░░░░░░░░░░░░░░░░░░░    6.37 %
+JavaScript          0 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    3.25 %
+JSON                0 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    2.05 %
+Markdown            0 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    1.34 %
+Text                0 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░    0.42 %
 Vue                 0 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░    0.38 %
 HTML                0 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░    0.26 %
-XML                 0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░    0.01 %
 ```
 <!--DEVTIMER:END-->
 
