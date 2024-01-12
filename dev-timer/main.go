@@ -81,7 +81,9 @@ func loadJSON(filename string) (File, error) {
 func getLanguages(data File) string {
 	var result string
 
-	result += "```\n"
+	result += "```txt\n"
+
+	blocks := []string{"░", "▒", "▓", "█"}
 
 	for _, language := range data.Data.Languages {
 		if language.Name == "unknown" || language.Percent == 0 {
@@ -101,12 +103,11 @@ func getLanguages(data File) string {
 		var percentString string
 
 		for i := 0; i < percent; i++ {
-			percentString += ">"
-
+			percentString += string(blocks[3])
 		}
 
 		for i := 0; i < 25-percent; i++ {
-			percentString += "-"
+			percentString += string(blocks[0])
 		}
 
 		time := fmt.Sprintf("%d hrs %d mins", language.Hours, language.Minutes)

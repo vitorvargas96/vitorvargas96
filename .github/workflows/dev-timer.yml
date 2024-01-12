@@ -1,5 +1,5 @@
 name: dev-timer
-run-name: ${{ github.actor }} Update Radme
+run-name: ${{ github.actor }} Update Readme
 on:
   push:
     paths:
