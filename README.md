@@ -21,15 +21,15 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 ------
 <!--DEVTIMER:START-->
 ```
-TypeScript: 8h 22m 28s
-YAML: 1h 9m 50s
-Bash: 0h 50m 9s
-JavaScript: 0h 23m 18s
-JSON: 0h 9m 31s
-Vue: 0h 3m 18s
-Text: 0h 2m 20s
-HTML: 0h 2m 15s
-XML: 0h 0m 7s
+TypeScript          8 hrs 22 mins   >>>>>>>>>>>>>>>>>>-------    75.44 %
+YAML                1 hrs 9 mins    >>-----------------------    10.48 %
+Bash                0 hrs 50 mins   >------------------------    7.53 %
+JavaScript          0 hrs 23 mins   -------------------------    3.50 %
+JSON                0 hrs 9 mins    -------------------------    1.43 %
+Vue                 0 hrs 3 mins    -------------------------    0.50 %
+Text                0 hrs 2 mins    -------------------------    0.35 %
+HTML                0 hrs 2 mins    -------------------------    0.34 %
+XML                 0 hrs 0 mins    -------------------------    0.02 %
 ```
 <!--DEVTIMER:END-->
 
