@@ -1,17 +1,126 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"os"
+	"strings"
 )
 
+type File struct {
+	Data Data `json:"data"`
+}
+
+type Data struct {
+	Username                  string      `json:"username"`
+	UserID                    string      `json:"user_id"`
+	Start                     string      `json:"start"`
+	End                       string      `json:"end"`
+	Status                    string      `json:"status"`
+	TotalSeconds              int         `json:"total_seconds"`
+	DailyAverage              float64     `json:"daily_average"`
+	DaysIncludingHolidays     int         `json:"days_including_holidays"`
+	Range                     string      `json:"range"`
+	HumanReadableRange        string      `json:"human_readable_range"`
+	HumanReadableTotal        string      `json:"human_readable_total"`
+	HumanReadableDailyAverage string      `json:"human_readable_daily_average"`
+	IsCodingActivityVisible   bool        `json:"is_coding_activity_visible"`
+	IsOtherUsageVisible       bool        `json:"is_other_usage_visible"`
+	Editors                   []string    `json:"editors"`
+	Languages                 []Languages `json:"languages"`
+	Machines                  []string    `json:"machines"`
+	Projects                  []string    `json:"projects"`
+	OperatingSystems          []string    `json:"operating_systems"`
+}
+
+type Languages struct {
+	Digital      string  `json:"digital"`
+	Hours        int     `json:"hours"`
+	Minutes      int     `json:"minutes"`
+	Name         string  `json:"name"`
+	Percent      float64 `json:"percent"`
+	Seconds      int     `json:"seconds"`
+	Text         string  `json:"text"`
+	TotalSeconds int     `json:"total_seconds"`
+}
+
 func main() {
-	content, err := os.ReadFile("data.json")
+	data, err := loadJSON("data.json")
 
 	if err != nil {
-		fmt.Println("Error", err)
+		fmt.Println(err)
 		return
 	}
 
-	fmt.Println(string(content))
+	langs := getLanguages(data)
+
+	err = updateReadme(langs)
+
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+}
+
+func loadJSON(filename string) (File, error) {
+	var data File
+	content, err := os.ReadFile(filename)
+
+	if err != nil {
+		return data, err
+	}
+
+	err = json.Unmarshal(content, &data)
+	if err != nil {
+		return data, err
+	}
+
+	return data, nil
+}
+
+func getLanguages(data File) string {
+	var langs string
+
+	for _, language := range data.Data.Languages {
+		if language.Name == "unknown" || language.Percent == 0 {
+			continue
+		}
+
+		langs += fmt.Sprintf("**%s**: %dh %dm %ds\n", language.Name, language.Hours, language.Minutes, language.Seconds)
+	}
+
+	return langs
+}
+
+func getReadme() ([]byte, error) {
+	file, err := os.ReadFile("../README.md")
+
+	if err != nil {
+		return nil, err
+	}
+
+	return file, nil
+}
+
+func updateReadme(langs string) error {
+	readme, err := getReadme()
+
+	if err != nil {
+		fmt.Println(err)
+		return err
+	}
+
+	part1 := strings.Split(string(readme), "<!--DEVTIMER:START-->")[0]
+	part2 := strings.Split(string(readme), "<!--DEVTIMER:END-->")[1]
+
+	result := part1 + "<!--DEVTIMER:START-->\n" + langs + "<!--DEVTIMER:END-->" + part2
+
+	err = os.WriteFile("../README.md", []byte(result), 0644)
+
+	if err != nil {
+		fmt.Println(err)
+		return err
+	}
+
+	return nil
 }
