@@ -86,7 +86,7 @@ func getLanguages(data File) string {
 			continue
 		}
 
-		langs += fmt.Sprintf("**%s**: %dh %dm %ds\n", language.Name, language.Hours, language.Minutes, language.Seconds)
+		langs += fmt.Sprintf("**%s**: %dh %dm %ds\n\n", language.Name, language.Hours, language.Minutes, language.Seconds)
 	}
 
 	return langs
