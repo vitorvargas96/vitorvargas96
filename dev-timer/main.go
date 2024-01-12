@@ -86,7 +86,7 @@ func getLanguages(data File) string {
 	blocks := []string{"░", "▒", "▓", "█"}
 
 	for _, language := range data.Data.Languages {
-		if language.Name == "unknown" || language.Percent == 0 {
+		if language.Name == "unknown" || language.Percent == 0 || language.Minutes == 0 {
 			continue
 		}
 
@@ -110,7 +110,7 @@ func getLanguages(data File) string {
 			percentString += string(blocks[0])
 		}
 
-		time := fmt.Sprintf("%d hrs %d mins", language.Hours, language.Minutes)
+		time := language.Text
 		spaceAfterTimeCalc := 15 - len(time)
 		var spaceAfterTime string
 
