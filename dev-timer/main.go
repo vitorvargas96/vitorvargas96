@@ -83,6 +83,10 @@ func getLanguages(data File) string {
 
 	result += "```txt\n"
 
+	result += "Dev Weekly Status\n\n"
+
+	result += fmt.Sprintf("Total time: %s\n\n", data.Data.HumanReadableTotal)
+
 	blocks := []string{"░", "▒", "▓", "█"}
 
 	for _, language := range data.Data.Languages {
