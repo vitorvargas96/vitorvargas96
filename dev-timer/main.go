@@ -79,21 +79,52 @@ func loadJSON(filename string) (File, error) {
 }
 
 func getLanguages(data File) string {
-	var langs string
+	var result string
 
-	langs += fmt.Sprintf("```")
+	result += "```\n"
 
 	for _, language := range data.Data.Languages {
 		if language.Name == "unknown" || language.Percent == 0 {
 			continue
 		}
 
-		langs += fmt.Sprintf("**%s**: %dh %dm %ds\n", language.Name, language.Hours, language.Minutes, language.Seconds)
+		languageSize := len(language.Name)
+		spaceAfterLanguageCalc := 19 - languageSize
+		var spaceAfterLanguage string
+
+		for i := 0; i < spaceAfterLanguageCalc; i++ {
+			spaceAfterLanguage += " "
+		}
+
+		percent := int(language.Percent * 25 / 100)
+
+		var percentString string
+
+		for i := 0; i < percent; i++ {
+			percentString += ">"
+
+		}
+
+		for i := 0; i < 25-percent; i++ {
+			percentString += "-"
+		}
+
+		time := fmt.Sprintf("%d hrs %d mins", language.Hours, language.Minutes)
+		spaceAfterTimeCalc := 15 - len(time)
+		var spaceAfterTime string
+
+		for i := 0; i < spaceAfterTimeCalc; i++ {
+			spaceAfterTime += " "
+		}
+
+		result += fmt.Sprintf("%s%s %s%s %s    %.2f %%\n", language.Name, spaceAfterLanguage, time, spaceAfterTime, percentString, language.Percent)
+
+		// result += fmt.Sprintf("%s %d hrs %d mins", language.Name, language.Hours, language.Minutes)
 	}
 
-	langs += fmt.Sprintf("```")
+	result += "```\n"
 
-	return langs
+	return result
 }
 
 func getReadme() ([]byte, error) {
