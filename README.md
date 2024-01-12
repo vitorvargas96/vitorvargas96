@@ -35,8 +35,6 @@ XML                 0 hrs 0 mins    ░░░░░░░░░░░░░░�
 ```
 <!--DEVTIMER:END-->
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649d07e9d99c9d67319eb772?variant=dark&roadmaps=golang%2Cbackend%2Cvue%2Cdevops)](https://roadmap.sh)
-
 # Languages and tools
 
 ### Front End
