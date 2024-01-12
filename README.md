@@ -20,25 +20,16 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 
 ------
 <!--DEVTIMER:START-->
-**TypeScript**: 8h 22m 28s
-
-**YAML**: 1h 9m 50s
-
-**Bash**: 0h 50m 9s
-
-**JavaScript**: 0h 23m 18s
-
-**JSON**: 0h 9m 31s
-
-**Vue**: 0h 3m 18s
-
-**Text**: 0h 2m 20s
-
-**HTML**: 0h 2m 15s
-
-**XML**: 0h 0m 7s
-
-<!--DEVTIMER:END-->
+```**TypeScript**: 8h 22m 28s
+``````**YAML**: 1h 9m 50s
+``````**Bash**: 0h 50m 9s
+``````**JavaScript**: 0h 23m 18s
+``````**JSON**: 0h 9m 31s
+``````**Vue**: 0h 3m 18s
+``````**Text**: 0h 2m 20s
+``````**HTML**: 0h 2m 15s
+``````**XML**: 0h 0m 7s
+```<!--DEVTIMER:END-->
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649d07e9d99c9d67319eb772?variant=dark&roadmaps=golang%2Cbackend%2Cvue%2Cdevops)](https://roadmap.sh)
 
