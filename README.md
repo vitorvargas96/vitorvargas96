@@ -20,7 +20,8 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 
 ------
 <!--DEVTIMER:START-->
-```**TypeScript**: 8h 22m 28s
+```
+**TypeScript**: 8h 22m 28s
 **YAML**: 1h 9m 50s
 **Bash**: 0h 50m 9s
 **JavaScript**: 0h 23m 18s
@@ -29,7 +30,8 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 **Text**: 0h 2m 20s
 **HTML**: 0h 2m 15s
 **XML**: 0h 0m 7s
-```<!--DEVTIMER:END-->
+```
+<!--DEVTIMER:END-->
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649d07e9d99c9d67319eb772?variant=dark&roadmaps=golang%2Cbackend%2Cvue%2Cdevops)](https://roadmap.sh)
 
@@ -45,7 +47,7 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 ![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-----
+
 
 ### Back End
 ![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
