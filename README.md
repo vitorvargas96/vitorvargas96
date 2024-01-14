@@ -24,15 +24,15 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 
 | Language | Time programming |
 | --- | ------------- |
-| <img width="32px" src="https://cdn.simpleicons.org/typescript/3178C6"> | 8 hrs 33 mins |
-| <img width="32px" src="https://cdn.simpleicons.org/go/00ADD8"> | 6 hrs 22 mins |
-| <img width="32px" src="https://cdn.simpleicons.org/yaml/fff"> | 1 hrs 54 mins |
-| <img width="32px" src="https://cdn.simpleicons.org/gnubash/fff"> | 1 hrs 3 mins |
-| <img width="32px" src="https://cdn.simpleicons.org/markdown/fff"> | 0 hrs 46 mins |
-| <img width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E"> | 0 hrs 31 mins |
-| <img width="32px" src="https://cdn.simpleicons.org/carrd/000"> | 0 hrs 18 mins |
-| <img width="32px" src="https://cdn.simpleicons.org/academia/fff"> | 0 hrs 4 mins |
-| <img width="32px" src="https://cdn.simpleicons.org/vue-dot-js/4FC08D"> | 0 hrs 3 mins |
-| <img width="32px" src="https://cdn.simpleicons.org/html5/E34F26"> | 0 hrs 2 mins |
-| <img width="32px" src="https://cdn.simpleicons.org/css3/1572B6"> | 0 hrs 0 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/typescript/3178C6"> | 8 hrs 33 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/go/00ADD8"> | 6 hrs 23 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/yaml/fff"> | 1 hrs 54 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/gnubash/fff"> | 1 hrs 3 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/markdown/fff"> | 0 hrs 46 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/javascript/F7DF1E"> | 0 hrs 31 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/carrd/000"> | 0 hrs 18 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/academia/fff"> | 0 hrs 4 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/vue-dot-js/4FC08D"> | 0 hrs 3 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/html5/E34F26"> | 0 hrs 2 mins |
+| <img width="48px" src="https://cdn.simpleicons.org/css3/1572B6"> | 0 hrs 0 mins |
 <!--DEVTIMER:END-->
