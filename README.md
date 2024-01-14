@@ -20,56 +20,19 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 
 ------
 <!--DEVTIMER:START-->
-```txt
-Dev Weekly Status
+# Languages used this week
 
-Total time: 15 hrs 3 mins
-
-TypeScript          8 hrs 33 mins   ██████████████░░░░░░░░░░░    56.81 %
-Go                  2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░    15.84 %
-YAML                1 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░    12.61 %
-Bash                1 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    6.99 %
-JavaScript          0 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    3.11 %
-JSON                0 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    1.96 %
-Markdown            0 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░    1.32 %
-Text                0 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░    0.40 %
-Vue                 0 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░    0.36 %
-HTML                0 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░    0.25 %
-```
+| Language | Time programming |
+| --- | ------------- |
+| <img width="32px" src="https://cdn.simpleicons.org/typescript/3178C6"> | 8 hrs 33 mins |
+| <img width="32px" src="https://cdn.simpleicons.org/go/00ADD8"> | 6 hrs 22 mins |
+| <img width="32px" src="https://cdn.simpleicons.org/yaml/fff"> | 1 hrs 54 mins |
+| <img width="32px" src="https://cdn.simpleicons.org/gnubash/fff"> | 1 hrs 3 mins |
+| <img width="32px" src="https://cdn.simpleicons.org/markdown/fff"> | 0 hrs 46 mins |
+| <img width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E"> | 0 hrs 31 mins |
+| <img width="32px" src="https://cdn.simpleicons.org/carrd/000"> | 0 hrs 18 mins |
+| <img width="32px" src="https://cdn.simpleicons.org/academia/fff"> | 0 hrs 4 mins |
+| <img width="32px" src="https://cdn.simpleicons.org/vue-dot-js/4FC08D"> | 0 hrs 3 mins |
+| <img width="32px" src="https://cdn.simpleicons.org/html5/E34F26"> | 0 hrs 2 mins |
+| <img width="32px" src="https://cdn.simpleicons.org/css3/1572B6"> | 0 hrs 0 mins |
 <!--DEVTIMER:END-->
-
-# Languages and tools
-
-### Front End
-![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-
-### Back End
-![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
----
-
-### Dev Ops
-![](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![](https://img.shields.io/badge/Packer-1DAEFF?style=for-the-badge&logo=packer&logoColor=white)
-![](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-
