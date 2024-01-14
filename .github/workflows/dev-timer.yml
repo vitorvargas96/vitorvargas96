@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 * * * *" # every hour
 jobs:
-  check-bats-version:
+  update-readme:
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
