@@ -87,12 +87,12 @@ func GetWeeklyTimer() (DevTimer, error) {
 	content, err := NewHttpClient().GetData()
 
 	if err != nil {
-		return data, err
+		panic("Unable to fetch JSON")
 	}
 
 	err = json.Unmarshal([]byte(content), &data)
 	if err != nil {
-		return data, err
+		panic("Unable to fetch JSON")
 	}
 
 	return data, nil
