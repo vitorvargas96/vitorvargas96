@@ -26,6 +26,15 @@ func generateLanguageText(languages []client.Languages) string {
 
 	text += "```\n\n"
 
+	badges, err := addLanguageBadges(languages)
+
+	if err != nil {
+		fmt.Println(err)
+		return ""
+	}
+
+	text += badges + "\n\n"
+
 	return text
 }
 
@@ -70,4 +79,25 @@ func generatePercent(percent float64) string {
 	percentString += "]"
 
 	return percentString
+}
+
+func addLanguageBadges(languages []client.Languages) (string, error) {
+	var badges string
+
+	for _, language := range languages {
+		if language.Name == "unknown" || language.Percent == 0 || language.Minutes == 0 {
+			continue
+		}
+
+		icon, err := getIcon(language.Name)
+
+		if err != nil {
+			continue
+		}
+
+		badges += "<img align=\"center\" width=\"32px\" src=\"" + icon + "\" alt=\"" + language.Name + "\" />"
+		badges += "&nbsp;&nbsp;&nbsp;"
+	}
+
+	return badges, nil
 }

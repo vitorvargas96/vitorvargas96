@@ -20,18 +20,22 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 
 ------
 <!--DEVTIMER:START-->
+# Languages used this week
+
 ```txt
-TypeScript          8 hrs 33 mins   [==========               ]    42.23 %
-Go                  6 hrs 39 mins   [========                 ]    32.83 %
-YAML                1 hrs 58 mins   [==                       ]    9.68 %
-Bash                1 hrs 3 mins    [=                        ]    5.19 %
-Markdown            0 hrs 50 mins   [=                        ]    4.15 %
-JavaScript          0 hrs 31 mins   [                         ]    2.54 %
-JSON                0 hrs 18 mins   [                         ]    1.46 %
-XML                 0 hrs 11 mins   [                         ]    0.88 %
+TypeScript          8 hrs 33 mins   [==========               ]    41.71 %
+Go                  6 hrs 53 mins   [========                 ]    33.56 %
+YAML                1 hrs 58 mins   [==                       ]    9.57 %
+Bash                1 hrs 3 mins    [=                        ]    5.13 %
+Markdown            0 hrs 52 mins   [=                        ]    4.20 %
+JavaScript          0 hrs 31 mins   [                         ]    2.51 %
+JSON                0 hrs 18 mins   [                         ]    1.44 %
+XML                 0 hrs 11 mins   [                         ]    0.87 %
 Text                0 hrs 4 mins    [                         ]    0.30 %
 Vue                 0 hrs 3 mins    [                         ]    0.27 %
-HTML                0 hrs 2 mins    [                         ]    0.19 %
+HTML                0 hrs 2 mins    [                         ]    0.18 %
 ```
+
+<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/000" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vue-dot-js/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
 
 <!--DEVTIMER:END-->
