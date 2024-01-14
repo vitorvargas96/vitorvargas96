@@ -8,7 +8,7 @@ import (
 func generateLanguageText(languages []client.Languages) string {
 	var text string
 
-	text += "# Languages used this week\n\n"
+	text += "# Programming Time (Since 09 Jan 2023)\n\n"
 
 	text += "```txt\n"
 
