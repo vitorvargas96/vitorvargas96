@@ -2,9 +2,10 @@ name: dev-timer
 run-name: Dev Timer ~ Update Readme
 on:
   schedule:
-    # - cron: "0 * * * *" # every hour
-    # every 1m
-    - cron: "*/1 * * * *"
+    - cron: "0 * * * *" # every hour
+  push:
+    paths:
+      - 'dev-timer/*'
 jobs:
   update-readme:
     runs-on: ubuntu-latest
