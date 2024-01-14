@@ -10,10 +10,7 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-go@v4
-        with:
-          go-version: 1.21.6
-      - run: cd dev-timer && go run main.go
+      - run: ./dev-timer/main.go
       - name: Commit files
         run: |
           git config --local user.email "instalando@protonmail.com" && \
