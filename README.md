@@ -20,7 +20,7 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 
 ------
 <!--DEVTIMER:START-->
-# Languages used this week
+# Programming Time (Since 09 Jan 2023)
 
 ```txt
 TypeScript          8 hrs 33 mins   [==========               ]    41.66 %
