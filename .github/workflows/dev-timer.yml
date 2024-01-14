@@ -10,8 +10,8 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     steps:
       - uses: actions/checkout@v4
-      - run: chmod +x ./dev-timer/main.go
-      - run: ./dev-timer/main.go
+      - run: chmod +x ./dev-timer/main
+      - run: ./dev-timer/main
       - name: Commit files
         run: |
           git config --local user.email "instalando@protonmail.com" && \
