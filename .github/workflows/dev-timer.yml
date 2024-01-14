@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - 'dev-timer/*'
+      - '.github/workflows/dev-timer.yml'
 jobs:
   update-readme:
     runs-on: ubuntu-latest
