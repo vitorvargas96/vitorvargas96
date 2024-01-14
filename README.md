@@ -20,8 +20,6 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 
 ------
 <!--DEVTIMER:START-->
-# Languages used this week
-
 ```txt
 TypeScript          8 hrs 33 mins   [==========               ]    42.23 %
 Go                  6 hrs 39 mins   [========                 ]    32.83 %
