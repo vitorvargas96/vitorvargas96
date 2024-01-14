@@ -1,9 +1,8 @@
 name: dev-timer
-run-name: ${{ github.actor }} Update Readme
+run-name: Dev Timer ~ Update Readme
 on:
-  push:
-    paths:
-      - 'dev-timer/*'
+  schedule:
+    - cron: "0 * * * *" # every hour
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
