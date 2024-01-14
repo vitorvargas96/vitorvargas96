@@ -20,16 +20,16 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 
 ------
 <!--DEVTIMER:START-->
-# Languages used this week
+# Programming Time (Since 09 Jan 2023)
 
 ```txt
-TypeScript          8 hrs 33 mins   [==========               ]    41.63 %
-Go                  6 hrs 55 mins   [========                 ]    33.68 %
-YAML                1 hrs 58 mins   [==                       ]    9.55 %
-Bash                1 hrs 3 mins    [=                        ]    5.12 %
-Markdown            0 hrs 52 mins   [=                        ]    4.19 %
+TypeScript          8 hrs 33 mins   [==========               ]    41.52 %
+Go                  6 hrs 59 mins   [========                 ]    33.84 %
+YAML                1 hrs 58 mins   [==                       ]    9.54 %
+Bash                1 hrs 3 mins    [=                        ]    5.11 %
+Markdown            0 hrs 52 mins   [=                        ]    4.18 %
 JavaScript          0 hrs 31 mins   [                         ]    2.50 %
-JSON                0 hrs 18 mins   [                         ]    1.44 %
+JSON                0 hrs 18 mins   [                         ]    1.43 %
 XML                 0 hrs 11 mins   [                         ]    0.86 %
 Text                0 hrs 4 mins    [                         ]    0.30 %
 Vue                 0 hrs 3 mins    [                         ]    0.27 %
