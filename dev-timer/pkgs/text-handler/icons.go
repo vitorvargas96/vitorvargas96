@@ -40,9 +40,9 @@ func getIcon(language string) (string, error) {
 	case "yaml":
 		return generateImgTag("yaml", "fff"), nil
 	case "json":
-		return generateImgTag("carrd", "000"), nil
+		return generateImgTag("carrd", "fff"), nil
 	case "vue":
-		return generateImgTag("vue-dot-js", "4FC08D"), nil
+		return generateImgTag("vuedotjs", "4FC08D"), nil
 	case "text":
 		return generateImgTag("academia", "fff"), nil
 	default:
