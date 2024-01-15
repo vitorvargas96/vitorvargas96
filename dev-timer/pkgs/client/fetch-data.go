@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-const baseUrl = "https://devtimer.vitorvargas.dev/"
+const baseUrl = "https://devtimer.vitorvargas.com.br/"
 
 type devTimerClient struct {
 	httpClient *http.Client
