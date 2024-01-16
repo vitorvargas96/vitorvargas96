@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-const baseUrl = ""
+const baseUrl = "http://172.233.190.253:4080/api/v1/users/vitorvargas/stats/?is_including_today=true"
 
 type devTimerClient struct {
 	httpClient *http.Client
