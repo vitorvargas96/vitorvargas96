@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-const baseUrl = "http://localhost:3333"
+const baseUrl = ""
 
 type devTimerClient struct {
 	httpClient *http.Client

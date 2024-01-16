@@ -1,0 +1,27 @@
+name: dev-timer
+run-name: Dev Timer ~ Update Readme
+on:
+  schedule:
+    - cron: '0 0 * * *'    
+  push:
+    paths:
+      - 'dev-timer/*'
+      - '.github/workflows/dev-timer.yml'
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: chmod +x ./dev-timer/main
+      - run: ./dev-timer/main
+      - name: Commit files
+        run: |
+          git config --local user.email "instalando@protonmail.com" && \
+          git config --local user.name "vitorvargasdev" && \
+          git add . && \
+          git commit -m "Update README.md" && \
+          git push
+
+
