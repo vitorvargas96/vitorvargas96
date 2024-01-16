@@ -28,7 +28,7 @@ func main() {
 }
 
 func getReadme() ([]byte, error) {
-	file, err := os.ReadFile("README.md")
+	file, err := os.ReadFile("../README.md")
 
 	if err != nil {
 		return nil, err
@@ -50,7 +50,7 @@ func updateReadme(langs string) error {
 
 	result := part1 + "<!--DEVTIMER:START-->\n" + langs + "<!--DEVTIMER:END-->" + part2
 
-	err = os.WriteFile("README.md", []byte(result), 0644)
+	err = os.WriteFile("../README.md", []byte(result), 0644)
 
 	if err != nil {
 		fmt.Println(err)
