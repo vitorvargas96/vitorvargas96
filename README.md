@@ -26,11 +26,13 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-TypeScript          3 hrs 5 mins    [=====================    ]    87.96 %
-Go                  0 hrs 16 mins   [=                        ]    7.41 %
-Markdown            0 hrs 4 mins    [                         ]    2.05 %
-JSON                0 hrs 4 mins    [                         ]    1.94 %
-HTML                0 hrs 1 mins    [                         ]    0.64 %
+Total Time: 3 hrs 40 mins
+
+TypeScript          3 hrs 7 mins    [=====================    ]    85.08 %
+Go                  0 hrs 23 mins   [==                       ]    10.46 %
+Markdown            0 hrs 4 mins    [                         ]    2.00 %
+JSON                0 hrs 4 mins    [                         ]    1.86 %
+HTML                0 hrs 1 mins    [                         ]    0.61 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -43,14 +45,16 @@ HTML                0 hrs 1 mins    [                         ]    0.64 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-TypeScript          4 hrs 24 mins   [==========               ]    42.20 %
-Go                  2 hrs 58 mins   [=======                  ]    28.53 %
-Bash                1 hrs 21 mins   [===                      ]    13.01 %
-YAML                0 hrs 43 mins   [=                        ]    6.91 %
-Markdown            0 hrs 24 mins   [                         ]    3.80 %
-SQL                 0 hrs 16 mins   [                         ]    2.56 %
-JSON                0 hrs 4 mins    [                         ]    0.67 %
-JavaScript          0 hrs 4 mins    [                         ]    0.63 %
+Total Time: 10 hrs 34 mins
+
+TypeScript          4 hrs 26 mins   [==========               ]    41.88 %
+Go                  3 hrs 6 mins    [=======                  ]    29.27 %
+Bash                1 hrs 21 mins   [===                      ]    12.82 %
+YAML                0 hrs 43 mins   [=                        ]    6.81 %
+Markdown            0 hrs 24 mins   [                         ]    3.75 %
+SQL                 0 hrs 16 mins   [                         ]    2.52 %
+JSON                0 hrs 4 mins    [                         ]    0.66 %
+JavaScript          0 hrs 4 mins    [                         ]    0.62 %
 Vue                 0 hrs 2 mins    [                         ]    0.32 %
 HTML                0 hrs 1 mins    [                         ]    0.22 %
 ```
@@ -65,13 +69,15 @@ HTML                0 hrs 1 mins    [                         ]    0.22 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-TypeScript          13 hrs 30 mins  [============             ]    51.24 %
-Go                  5 hrs 48 mins   [=====                    ]    22.00 %
-Bash                2 hrs 37 mins   [==                       ]    9.96 %
-YAML                2 hrs 18 mins   [==                       ]    8.74 %
-JavaScript          0 hrs 33 mins   [                         ]    2.08 %
+Total Time: 26 hrs 29 mins
+
+TypeScript          13 hrs 32 mins  [============             ]    51.07 %
+Go                  5 hrs 55 mins   [=====                    ]    22.34 %
+Bash                2 hrs 37 mins   [==                       ]    9.90 %
+YAML                2 hrs 18 mins   [==                       ]    8.69 %
+JavaScript          0 hrs 33 mins   [                         ]    2.06 %
 Markdown            0 hrs 27 mins   [                         ]    1.69 %
-JSON                0 hrs 26 mins   [                         ]    1.62 %
+JSON                0 hrs 26 mins   [                         ]    1.61 %
 SQL                 0 hrs 16 mins   [                         ]    1.01 %
 Vue                 0 hrs 7 mins    [                         ]    0.43 %
 Text                0 hrs 6 mins    [                         ]    0.38 %
