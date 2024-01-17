@@ -8,8 +8,20 @@ import (
 	"strings"
 )
 
+const ALL_TIME = ""
+const TODAY = "today"
+const WEEK = "week"
+
+const README_PATH = "../README.md"
+
 func main() {
-	data, err := client.GetWeeklyTimer()
+	updateDevTimer(TODAY)
+	updateDevTimer(WEEK)
+	updateDevTimer(ALL_TIME)
+}
+
+func updateDevTimer(rangeTime string) {
+	data, err := client.GetTimer(rangeTime)
 	fmt.Println(data)
 
 	if err != nil {
@@ -19,7 +31,7 @@ func main() {
 
 	text := textHandler.Handler(data.Data.Languages)
 
-	err = updateReadme(text)
+	err = updateReadme(text, rangeTime)
 
 	if err != nil {
 		fmt.Println(err)
@@ -28,7 +40,7 @@ func main() {
 }
 
 func getReadme() ([]byte, error) {
-	file, err := os.ReadFile("README.md")
+	file, err := os.ReadFile(README_PATH)
 
 	if err != nil {
 		return nil, err
@@ -37,7 +49,7 @@ func getReadme() ([]byte, error) {
 	return file, nil
 }
 
-func updateReadme(langs string) error {
+func updateReadme(langs string, rangeTime string) error {
 	readme, err := getReadme()
 
 	if err != nil {
@@ -45,12 +57,14 @@ func updateReadme(langs string) error {
 		return err
 	}
 
-	part1 := strings.Split(string(readme), "<!--DEVTIMER:START-->")[0]
-	part2 := strings.Split(string(readme), "<!--DEVTIMER:END-->")[1]
+	rangeTime = strings.ToUpper(rangeTime)
 
-	result := part1 + "<!--DEVTIMER:START-->\n" + langs + "<!--DEVTIMER:END-->" + part2
+	part1 := strings.Split(string(readme), "<!--DEVTIMER:"+rangeTime+":START-->")[0]
+	part2 := strings.Split(string(readme), "<!--DEVTIMER:"+rangeTime+":END-->")[1]
 
-	err = os.WriteFile("README.md", []byte(result), 0644)
+	result := part1 + "<!--DEVTIMER:" + rangeTime + ":START-->\n" + langs + "<!--DEVTIMER:" + rangeTime + ":END-->" + part2
+
+	err = os.WriteFile(README_PATH, []byte(result), 0644)
 
 	if err != nil {
 		fmt.Println(err)

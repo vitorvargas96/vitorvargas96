@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-const baseUrl = "http://172.233.190.253:4080/api/v1/users/vitorvargas/stats/?is_including_today=true"
+const baseUrl = "http://172.233.190.253:4080/api/v1/users/vitorvargas/stats"
 
 type devTimerClient struct {
 	httpClient *http.Client
@@ -61,8 +61,8 @@ func NewHttpClient() *devTimerClient {
 	}
 }
 
-func (c devTimerClient) GetData() (string, error) {
-	res, err := c.httpClient.Get(baseUrl)
+func (c devTimerClient) GetData(rangeTime string) (string, error) {
+	res, err := c.httpClient.Get(baseUrl + "/" + rangeTime + "/?is_including_today=true")
 
 	if err != nil {
 		return "", err
@@ -82,9 +82,9 @@ func (c devTimerClient) GetData() (string, error) {
 	return string(data), nil
 }
 
-func GetWeeklyTimer() (DevTimer, error) {
+func GetTimer(rangeTime string) (DevTimer, error) {
 	var data DevTimer
-	content, err := NewHttpClient().GetData()
+	content, err := NewHttpClient().GetData(rangeTime)
 
 	if err != nil {
 		panic("Unable to fetch JSON")
