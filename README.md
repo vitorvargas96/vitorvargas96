@@ -23,20 +23,19 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 # Programming Time (Since 09 Jan 2023)
 
 ```txt
-TypeScript          10 hrs 25 mins  [==========               ]    40.21 %
-Go                  7 hrs 39 mins   [=======                  ]    29.56 %
-Bash                2 hrs 42 mins   [==                       ]    10.44 %
-YAML                2 hrs 34 mins   [==                       ]    9.91 %
-Markdown            0 hrs 52 mins   [                         ]    3.32 %
-JavaScript          0 hrs 34 mins   [                         ]    2.16 %
-JSON                0 hrs 22 mins   [                         ]    1.39 %
-SQL                 0 hrs 16 mins   [                         ]    1.03 %
-Vue                 0 hrs 7 mins    [                         ]    0.44 %
-Text                0 hrs 6 mins    [                         ]    0.39 %
-XML                 0 hrs 6 mins    [                         ]    0.35 %
-HTML                0 hrs 2 mins    [                         ]    0.15 %
+TypeScript          10 hrs 27 mins  [===========              ]    45.69 %
+Go                  5 hrs 32 mins   [======                   ]    24.21 %
+Bash                2 hrs 37 mins   [==                       ]    11.47 %
+YAML                2 hrs 18 mins   [==                       ]    10.07 %
+JavaScript          0 hrs 33 mins   [                         ]    2.39 %
+Markdown            0 hrs 22 mins   [                         ]    1.63 %
+JSON                0 hrs 22 mins   [                         ]    1.57 %
+SQL                 0 hrs 16 mins   [                         ]    1.17 %
+Vue                 0 hrs 7 mins    [                         ]    0.50 %
+Text                0 hrs 6 mins    [                         ]    0.44 %
+HTML                0 hrs 2 mins    [                         ]    0.17 %
 ```
 
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
 
 <!--DEVTIMER:END-->
