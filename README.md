@@ -83,15 +83,6 @@ HTML                0 hrs 1 mins    [                         ]    0.21 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-<<<<<<< Updated upstream
-Total Time: 26 hrs 34 mins
-
-TypeScript          13 hrs 32 mins  [============             ]    50.91 %
-Go                  6 hrs 0 mins    [=====                    ]    22.57 %
-Bash                2 hrs 37 mins   [==                       ]    9.87 %
-YAML                2 hrs 18 mins   [==                       ]    8.66 %
-JavaScript          0 hrs 33 mins   [                         ]    2.06 %
-=======
 Total Time: 26 hrs 38 mins
 
 TypeScript          13 hrs 32 mins  [============             ]    50.81 %
@@ -99,7 +90,6 @@ Go                  6 hrs 3 mins    [=====                    ]    22.73 %
 Bash                2 hrs 37 mins   [==                       ]    9.85 %
 YAML                2 hrs 18 mins   [==                       ]    8.64 %
 JavaScript          0 hrs 33 mins   [                         ]    2.05 %
->>>>>>> Stashed changes
 Markdown            0 hrs 27 mins   [                         ]    1.68 %
 JSON                0 hrs 26 mins   [                         ]    1.61 %
 SQL                 0 hrs 16 mins   [                         ]    1.00 %
