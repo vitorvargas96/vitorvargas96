@@ -7,6 +7,16 @@ import (
 
 func generateLanguageText(languages []client.Languages) string {
 	var text string
+
+	badges, err := addLanguageBadges(languages)
+
+	if err != nil {
+		fmt.Println(err)
+		return ""
+	}
+
+	text += badges + "\n\n"
+
 	text += "```txt\n"
 
 	// result += fmt.Sprintf("Total time: %s\n\n", languages.HumanReadableTotal)
@@ -22,15 +32,6 @@ func generateLanguageText(languages []client.Languages) string {
 	}
 
 	text += "```\n\n"
-
-	badges, err := addLanguageBadges(languages)
-
-	if err != nil {
-		fmt.Println(err)
-		return ""
-	}
-
-	text += badges + "\n\n"
 
 	return text
 }

@@ -12,7 +12,7 @@ const ALL_TIME = ""
 const TODAY = "today"
 const WEEK = "week"
 
-const README_PATH = "../README.md"
+const README_PATH = "README.md"
 
 func main() {
 	updateDevTimer(TODAY)
