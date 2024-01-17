@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-func generateLanguageText(languages []client.Languages) string {
+func generateLanguageText(languages []client.Languages, totalTime string) string {
 	var text string
 
 	badges, err := addLanguageBadges(languages)
@@ -19,7 +19,7 @@ func generateLanguageText(languages []client.Languages) string {
 
 	text += "```txt\n"
 
-	// result += fmt.Sprintf("Total time: %s\n\n", languages.HumanReadableTotal)
+	text += fmt.Sprintf("Total Time: %s\n\n", totalTime)
 
 	for _, language := range languages {
 		if language.Name == "unknown" || language.Percent == 0 || language.Minutes == 0 {

@@ -29,7 +29,7 @@ func updateDevTimer(rangeTime string) {
 		return
 	}
 
-	text := textHandler.Handler(data.Data.Languages)
+	text := textHandler.Handler(data.Data)
 
 	err = updateReadme(text, rangeTime)
 

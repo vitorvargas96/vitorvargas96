@@ -62,7 +62,7 @@ func NewHttpClient() *devTimerClient {
 }
 
 func (c devTimerClient) GetData(rangeTime string) (string, error) {
-	res, err := c.httpClient.Get(baseUrl + "/" + rangeTime + "/?is_including_today=true")
+	res, err := c.httpClient.Get(baseUrl + "/" + rangeTime + "?is_including_today=true")
 
 	if err != nil {
 		return "", err

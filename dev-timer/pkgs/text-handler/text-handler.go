@@ -1,11 +1,9 @@
 package textHandler
 
-import (
-	"dev-timer/pkgs/client"
-)
+import "dev-timer/pkgs/client"
 
-func Handler(data []client.Languages) string {
-	languages := generateLanguageText(data)
+func Handler(data client.Data) string {
+	languages := generateLanguageText(data.Languages, data.HumanReadableTotal)
 
 	return languages
 }
