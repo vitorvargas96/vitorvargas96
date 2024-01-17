@@ -23,16 +23,16 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 # Programming Time (Since 09 Jan 2023)
 
 ```txt
-TypeScript          10 hrs 52 mins  [===========              ]    46.62 %
-Go                  5 hrs 32 mins   [=====                    ]    23.72 %
-Bash                2 hrs 37 mins   [==                       ]    11.24 %
-YAML                2 hrs 18 mins   [==                       ]    9.86 %
-JavaScript          0 hrs 33 mins   [                         ]    2.34 %
-JSON                0 hrs 24 mins   [                         ]    1.70 %
-Markdown            0 hrs 22 mins   [                         ]    1.60 %
-SQL                 0 hrs 16 mins   [                         ]    1.14 %
-Vue                 0 hrs 7 mins    [                         ]    0.49 %
-Text                0 hrs 6 mins    [                         ]    0.43 %
+TypeScript          11 hrs 9 mins   [===========              ]    47.26 %
+Go                  5 hrs 32 mins   [=====                    ]    23.44 %
+Bash                2 hrs 37 mins   [==                       ]    11.11 %
+YAML                2 hrs 18 mins   [==                       ]    9.75 %
+JavaScript          0 hrs 33 mins   [                         ]    2.32 %
+JSON                0 hrs 24 mins   [                         ]    1.68 %
+Markdown            0 hrs 22 mins   [                         ]    1.58 %
+SQL                 0 hrs 16 mins   [                         ]    1.13 %
+Vue                 0 hrs 7 mins    [                         ]    0.48 %
+Text                0 hrs 6 mins    [                         ]    0.42 %
 HTML                0 hrs 2 mins    [                         ]    0.16 %
 ```
 
