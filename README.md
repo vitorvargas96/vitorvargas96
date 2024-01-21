@@ -46,21 +46,11 @@ Total Time: 0 hrs 0 mins
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 15 hrs 5 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          8 hrs 22 mins   [=============            ]    55.47 %
-Go                  3 hrs 15 mins   [=====                    ]    21.57 %
-Bash                1 hrs 23 mins   [==                       ]    9.22 %
-YAML                0 hrs 45 mins   [=                        ]    5.01 %
-Markdown            0 hrs 35 mins   [                         ]    3.85 %
-SQL                 0 hrs 16 mins   [                         ]    1.77 %
-HTML                0 hrs 8 mins    [                         ]    0.84 %
-Vue                 0 hrs 5 mins    [                         ]    0.59 %
-JSON                0 hrs 4 mins    [                         ]    0.46 %
-JavaScript          0 hrs 4 mins    [                         ]    0.44 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
