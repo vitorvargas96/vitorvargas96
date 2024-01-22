@@ -31,9 +31,9 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 2 mins
+Total Time: 0 hrs 4 mins
 
-TypeScript          0 hrs 2 mins    [=========================]    100.00 %
+TypeScript          0 hrs 4 mins    [=====================    ]    85.49 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -50,9 +50,9 @@ TypeScript          0 hrs 2 mins    [=========================]    100.00 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 2 mins
+Total Time: 0 hrs 4 mins
 
-TypeScript          0 hrs 2 mins    [=========================]    100.00 %
+TypeScript          0 hrs 4 mins    [=====================    ]    85.49 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -70,12 +70,12 @@ TypeScript          0 hrs 2 mins    [=========================]    100.00 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 31 hrs 2 mins
+Total Time: 31 hrs 5 mins
 
-TypeScript          17 hrs 30 mins  [==============           ]    56.38 %
-Go                  6 hrs 5 mins    [====                     ]    19.58 %
-Bash                2 hrs 40 mins   [==                       ]    8.57 %
-YAML                2 hrs 20 mins   [=                        ]    7.53 %
+TypeScript          17 hrs 32 mins  [==============           ]    56.40 %
+Go                  6 hrs 5 mins    [====                     ]    19.56 %
+Bash                2 hrs 40 mins   [==                       ]    8.56 %
+YAML                2 hrs 21 mins   [=                        ]    7.55 %
 Markdown            0 hrs 38 mins   [                         ]    2.03 %
 JavaScript          0 hrs 33 mins   [                         ]    1.76 %
 JSON                0 hrs 26 mins   [                         ]    1.38 %
