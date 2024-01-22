@@ -11,7 +11,7 @@ func generateProgressBar(percent float64) string {
 	}
 
 	for i := 0; i < 25-percentCalc; i++ {
-		progressBar += " "
+		progressBar += "."
 	}
 
 	progressBar += "]"
