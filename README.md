@@ -28,14 +28,11 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 1 hrs 31 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          1 hrs 25 mins   [=======================..]    92.99 %
-YAML                0 hrs 4 mins    [=........................]    4.69 %
-Go                  0 hrs 2 mins    [.........................]    2.29 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
