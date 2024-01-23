@@ -31,9 +31,9 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 3 mins
+Total Time: 0 hrs 11 mins
 
-TypeScript          0 hrs 3 mins    [=========================]    100.00 %
+TypeScript          0 hrs 11 mins   [=========================]    100.00 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -50,11 +50,11 @@ TypeScript          0 hrs 3 mins    [=========================]    100.00 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 34 mins
+Total Time: 1 hrs 42 mins
 
-TypeScript          1 hrs 28 mins   [=======================..]    93.23 %
-YAML                0 hrs 4 mins    [=........................]    4.54 %
-Go                  0 hrs 2 mins    [.........................]    2.22 %
+TypeScript          1 hrs 36 mins   [=======================..]    93.76 %
+YAML                0 hrs 4 mins    [=........................]    4.18 %
+Go                  0 hrs 2 mins    [.........................]    2.04 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -72,19 +72,19 @@ Go                  0 hrs 2 mins    [.........................]    2.22 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 32 hrs 35 mins
+Total Time: 32 hrs 43 mins
 
-TypeScript          18 hrs 56 mins  [==============...........]    58.11 %
-Go                  6 hrs 7 mins    [====.....................]    18.76 %
-Bash                2 hrs 40 mins   [==.......................]    8.16 %
-YAML                2 hrs 24 mins   [=........................]    7.39 %
-Markdown            0 hrs 38 mins   [.........................]    1.94 %
-JavaScript          0 hrs 33 mins   [.........................]    1.68 %
+TypeScript          19 hrs 4 mins   [==============...........]    58.28 %
+Go                  6 hrs 7 mins    [====.....................]    18.69 %
+Bash                2 hrs 40 mins   [==.......................]    8.13 %
+YAML                2 hrs 24 mins   [=........................]    7.36 %
+Markdown            0 hrs 38 mins   [.........................]    1.93 %
+JavaScript          0 hrs 33 mins   [.........................]    1.67 %
 JSON                0 hrs 26 mins   [.........................]    1.31 %
 SQL                 0 hrs 16 mins   [.........................]    0.82 %
 Vue                 0 hrs 10 mins   [.........................]    0.52 %
 HTML                0 hrs 10 mins   [.........................]    0.50 %
-Text                0 hrs 6 mins    [.........................]    0.31 %
+Text                0 hrs 6 mins    [.........................]    0.30 %
 ```
 
 <!--DEVTIMER::END-->
