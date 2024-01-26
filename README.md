@@ -28,14 +28,11 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 1 hrs 16 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          1 hrs 7 mins    [======================...]    88.31 %
-Bash                0 hrs 5 mins    [=........................]    6.11 %
-JavaScript          0 hrs 4 mins    [=........................]    5.58 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -52,10 +49,10 @@ JavaScript          0 hrs 4 mins    [=........................]    5.58 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 8 hrs 26 mins
+Total Time: 8 hrs 27 mins
 
 TypeScript          7 hrs 54 mins   [=======================..]    93.56 %
-JavaScript          0 hrs 9 mins    [.........................]    1.73 %
+JavaScript          0 hrs 9 mins    [.........................]    1.72 %
 YAML                0 hrs 8 mins    [.........................]    1.56 %
 Bash                0 hrs 7 mins    [.........................]    1.37 %
 JSON                0 hrs 3 mins    [.........................]    0.58 %
@@ -80,8 +77,8 @@ Go                  0 hrs 2 mins    [.........................]    0.41 %
 Total Time: 39 hrs 27 mins
 
 TypeScript          25 hrs 22 mins  [================.........]    64.30 %
-Go                  6 hrs 7 mins    [===......................]    15.50 %
-Bash                2 hrs 47 mins   [=........................]    7.04 %
+Go                  6 hrs 7 mins    [===......................]    15.49 %
+Bash                2 hrs 47 mins   [=........................]    7.03 %
 YAML                2 hrs 28 mins   [=........................]    6.26 %
 JavaScript          0 hrs 42 mins   [.........................]    1.76 %
 Markdown            0 hrs 38 mins   [.........................]    1.60 %
