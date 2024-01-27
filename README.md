@@ -28,17 +28,11 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 3 hrs 34 mins
+Total Time: 0 hrs 0 mins
 
-Go                  1 hrs 42 mins   [===========..............]    47.67 %
-TypeScript          1 hrs 14 mins   [========.................]    34.49 %
-Markdown            0 hrs 16 mins   [=........................]    7.38 %
-Bash                0 hrs 6 mins    [.........................]    3.01 %
-Vue                 0 hrs 3 mins    [.........................]    1.28 %
-JavaScript          0 hrs 2 mins    [.........................]    0.93 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
