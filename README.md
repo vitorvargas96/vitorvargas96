@@ -70,9 +70,9 @@ Total Time: 0 hrs 0 mins
 ```txt
 Total Time: 43 hrs 0 mins
 
-TypeScript          26 hrs 34 mins  [===============..........]    61.80 %
+TypeScript          26 hrs 34 mins  [===============..........]    61.81 %
 Go                  7 hrs 49 mins   [====.....................]    18.18 %
-Bash                2 hrs 53 mins   [=........................]    6.71 %
+Bash                2 hrs 53 mins   [=........................]    6.70 %
 YAML                2 hrs 28 mins   [=........................]    5.74 %
 Markdown            0 hrs 54 mins   [.........................]    2.08 %
 JavaScript          0 hrs 44 mins   [.........................]    1.69 %
