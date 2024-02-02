@@ -31,9 +31,9 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 <img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 21 mins
+Total Time: 0 hrs 23 mins
 
-Vue                 0 hrs 21 mins   [=========================]    100.00 %
+Vue                 0 hrs 23 mins   [=========================]    100.00 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -50,11 +50,11 @@ Vue                 0 hrs 21 mins   [=========================]    100.00 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 8 hrs 37 mins
+Total Time: 8 hrs 39 mins
 
-TypeScript          5 hrs 50 mins   [================.........]    67.66 %
-Vue                 2 hrs 15 mins   [======...................]    26.09 %
-Bash                0 hrs 11 mins   [.........................]    2.06 %
+TypeScript          5 hrs 50 mins   [================.........]    67.39 %
+Vue                 2 hrs 17 mins   [======...................]    26.37 %
+Bash                0 hrs 11 mins   [.........................]    2.05 %
 YAML                0 hrs 6 mins    [.........................]    1.12 %
 Markdown            0 hrs 4 mins    [.........................]    0.83 %
 Go                  0 hrs 3 mins    [.........................]    0.55 %
@@ -75,13 +75,13 @@ Go                  0 hrs 3 mins    [.........................]    0.55 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 51 hrs 36 mins
+Total Time: 51 hrs 38 mins
 
-TypeScript          32 hrs 24 mins  [===============..........]    62.78 %
-Go                  7 hrs 52 mins   [===......................]    15.24 %
+TypeScript          32 hrs 24 mins  [===============..........]    62.74 %
+Go                  7 hrs 52 mins   [===......................]    15.23 %
 Bash                3 hrs 4 mins    [=........................]    5.93 %
 YAML                2 hrs 34 mins   [=........................]    4.97 %
-Vue                 2 hrs 28 mins   [=........................]    4.77 %
+Vue                 2 hrs 30 mins   [=........................]    4.83 %
 Markdown            0 hrs 58 mins   [.........................]    1.87 %
 JavaScript          0 hrs 44 mins   [.........................]    1.41 %
 JSON                0 hrs 29 mins   [.........................]    0.92 %
