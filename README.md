@@ -28,15 +28,11 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 1 hrs 0 mins
+Total Time: 0 hrs 0 mins
 
-Docker              0 hrs 30 mins   [============.............]    49.79 %
-YAML                0 hrs 15 mins   [======...................]    25.70 %
-TypeScript          0 hrs 8 mins    [===......................]    13.99 %
-Vue                 0 hrs 5 mins    [==.......................]    9.00 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -50,18 +46,11 @@ Vue                 0 hrs 5 mins    [==.......................]    9.00 %
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 11 hrs 23 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          6 hrs 16 mins   [=============............]    55.11 %
-Vue                 3 hrs 48 mins   [========.................]    33.36 %
-Docker              0 hrs 30 mins   [=........................]    4.39 %
-YAML                0 hrs 21 mins   [.........................]    3.11 %
-Bash                0 hrs 11 mins   [.........................]    1.56 %
-Markdown            0 hrs 5 mins    [.........................]    0.73 %
-Go                  0 hrs 3 mins    [.........................]    0.41 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
