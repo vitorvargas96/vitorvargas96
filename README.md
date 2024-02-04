@@ -31,7 +31,7 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 
 
 ```txt
-Total Time: 0 hrs 0 mins
+Total Time: 0 hrs 1 mins
 
 ```
 
@@ -49,7 +49,7 @@ Total Time: 0 hrs 0 mins
 
 
 ```txt
-Total Time: 0 hrs 0 mins
+Total Time: 0 hrs 1 mins
 
 ```
 
@@ -68,16 +68,16 @@ Total Time: 0 hrs 0 mins
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 54 hrs 23 mins
+Total Time: 54 hrs 21 mins
 
-TypeScript          32 hrs 51 mins  [===============..........]    60.40 %
-Go                  7 hrs 52 mins   [===......................]    14.46 %
+TypeScript          32 hrs 51 mins  [===============..........]    60.43 %
+Go                  7 hrs 52 mins   [===......................]    14.47 %
 Bash                3 hrs 4 mins    [=........................]    5.63 %
-YAML                2 hrs 49 mins   [=........................]    5.19 %
+YAML                2 hrs 50 mins   [=........................]    5.21 %
 Markdown            0 hrs 59 mins   [.........................]    1.80 %
-JavaScript          0 hrs 44 mins   [.........................]    1.33 %
-Docker              0 hrs 30 mins   [.........................]    0.92 %
+JavaScript          0 hrs 44 mins   [.........................]    1.34 %
 JSON                0 hrs 29 mins   [.........................]    0.88 %
+Docker              0 hrs 28 mins   [.........................]    0.87 %
 SQL                 0 hrs 16 mins   [.........................]    0.49 %
 HTML                0 hrs 10 mins   [.........................]    0.30 %
 Text                0 hrs 7 mins    [.........................]    0.20 %
