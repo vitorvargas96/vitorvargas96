@@ -33,8 +33,8 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 ```txt
 Total Time: 0 hrs 19 mins
 
-Go                  0 hrs 17 mins   [======================...]    88.63 %
-Bash                0 hrs 2 mins    [==.......................]    10.77 %
+Go                  0 hrs 17 mins   [======================...]    88.66 %
+Bash                0 hrs 2 mins    [==.......................]    10.74 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -53,9 +53,9 @@ Bash                0 hrs 2 mins    [==.......................]    10.77 %
 ```txt
 Total Time: 2 hrs 55 mins
 
-Go                  2 hrs 17 mins   [===================......]    78.41 %
+Go                  2 hrs 18 mins   [===================......]    78.41 %
 YAML                0 hrs 18 mins   [==.......................]    10.08 %
-Docker              0 hrs 16 mins   [==.......................]    8.98 %
+Docker              0 hrs 16 mins   [==.......................]    8.97 %
 Bash                0 hrs 2 mins    [.........................]    1.19 %
 ```
 
