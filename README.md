@@ -28,14 +28,11 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 2 hrs 34 mins
+Total Time: 0 hrs 0 mins
 
-Go                  1 hrs 58 mins   [===================......]    76.85 %
-YAML                0 hrs 18 mins   [==.......................]    11.39 %
-Docker              0 hrs 16 mins   [==.......................]    10.22 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
