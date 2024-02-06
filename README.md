@@ -28,13 +28,11 @@ Overall, I'm a highly motivated and dedicated developer who takes pride in deliv
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 0 hrs 26 mins
+Total Time: 0 hrs 0 mins
 
-Go                  0 hrs 22 mins   [====================.....]    83.68 %
-Bash                0 hrs 4 mins    [===......................]    15.87 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
