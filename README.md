@@ -49,12 +49,12 @@ Total Time: 0 hrs 0 mins
 <img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 2 hrs 53 mins
+Total Time: 2 hrs 51 mins
 
-Go                  2 hrs 11 mins   [==================.......]    75.77 %
-YAML                0 hrs 18 mins   [==.......................]    10.23 %
-Docker              0 hrs 16 mins   [==.......................]    9.11 %
-Bash                0 hrs 6 mins    [.........................]    3.52 %
+Go                  2 hrs 11 mins   [===================......]    76.66 %
+YAML                0 hrs 18 mins   [==.......................]    10.35 %
+Docker              0 hrs 16 mins   [==.......................]    9.22 %
+Bash                0 hrs 4 mins    [.........................]    2.39 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -72,11 +72,11 @@ Bash                0 hrs 6 mins    [.........................]    3.52 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 57 hrs 13 mins
+Total Time: 57 hrs 11 mins
 
-TypeScript          32 hrs 51 mins  [==============...........]    57.40 %
-Go                  10 hrs 3 mins   [====.....................]    17.55 %
-Bash                3 hrs 10 mins   [=........................]    5.53 %
+TypeScript          32 hrs 51 mins  [==============...........]    57.44 %
+Go                  10 hrs 3 mins   [====.....................]    17.56 %
+Bash                3 hrs 8 mins    [=........................]    5.47 %
 YAML                3 hrs 7 mins    [=........................]    5.45 %
 Markdown            0 hrs 59 mins   [.........................]    1.71 %
 Docker              0 hrs 44 mins   [.........................]    1.28 %
