@@ -46,15 +46,11 @@ Total Time: 0 hrs 0 mins
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 2 hrs 51 mins
+Total Time: 0 hrs 0 mins
 
-Go                  2 hrs 11 mins   [===================......]    76.66 %
-YAML                0 hrs 18 mins   [==.......................]    10.35 %
-Docker              0 hrs 16 mins   [==.......................]    9.22 %
-Bash                0 hrs 4 mins    [.........................]    2.39 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
