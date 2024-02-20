@@ -2,23 +2,11 @@
 
 Hello! My name is Vitor and I'm a passionate, self-taught software developer. My insatiable curiosity and desire to constantly learn lead me to seek out new knowledge and explore innovative technologies.
 
-As a developer, I have a strong command of various programming languages, including JavaScript, TypeScript, Python, and PHP, and I'm proficient in both front-end and back-end development. I enjoy working with modern frameworks such as Vue.js, TailwindCSS, and Laravel, and I have experience in database management using MySQL, MariaDB, PostgreSQL, and SQLite.
+As a developer, I have a strong command of various programming languages, including Golang, JavaScript, TypeScript, and PHP, and I'm proficient in both front-end and back-end development. I enjoy working with modern frameworks, but I also like digging into the nuts and bolts of how things work under the hood.
 
-In addition to my technical expertise, I'm well-versed in DevOps tools such as Terraform, Docker, and Packer, and I have experience working with cloud platforms such as Heroku and DigitalOcean. I also have experience in web server management using Nginx.
+Besides coding, I'm also familiar with tools like Terraform, Docker, and Packer for making deployment and management easier. I've tinkered around with a few cloud platforms too.
 
-Overall, I'm a highly motivated and dedicated developer who takes pride in delivering exceptional results. I'm excited to continue learning, growing, and contributing to the world of technology in meaningful ways.
-
-------
-
-初めまして！ヴィトールと言います！私はソフトウェア開発に対して非常に情熱的で、独学でプログラミングを勉強しました。また、私は知的好奇心が強いので、新しい知識や革新的な技術を常に追い求めています。
-
-開発者として、JavaScript、TypeScript、Python、PHPなどのさまざまなプログラミング言語を熟知しており、フロントエンドとバックエンドの両方に精通しています。Vue.js、TailwindCSS、Laravelなどの現代的なフレームワークでの作業も可能です。MySQL、MariaDB、PostgreSQL、SQLiteなどのデータベース管理の経験もあります。
-
-また、技術的な専門知識に加えて、Terraform、Docker、PackerなどのDevOpsツールにも精通しており、HerokuやDigitalOceanなどのクラウドプラットフォームでの作業経験もあります。Nginxを使用したWebサーバー管理の経験もあります。
-
-全体的に良い製品を提供できるのが自慢です。私は開発者としてものすごくやる気があります。今後も学び、成長し、意義のある方法でIT業界に貢献することを楽しみにしています。
-
-------
+Basically, I'm a hardworking guy who loves what he does. I take pride in my work and always strive to do my best. I'm eager to keep learning and making cool stuff with technology.
 
 <!-- ## 📊 Today I Spent My Time On -->
 
