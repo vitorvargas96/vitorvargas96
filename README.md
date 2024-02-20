@@ -8,6 +8,8 @@ Besides coding, I'm also familiar with tools like Terraform, Docker, and Packer 
 
 Basically, I'm a hardworking guy who loves what he does. I take pride in my work and always strive to do my best. I'm eager to keep learning and making cool stuff with technology.
 
+---
+
 <!-- ## 📊 Today I Spent My Time On -->
 
 <details open>
