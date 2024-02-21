@@ -2,9 +2,9 @@
 
 Hello! My name is Vitor and I'm a passionate, self-taught software developer. My insatiable curiosity and desire to constantly learn lead me to seek out new knowledge and explore innovative technologies.
 
-As a developer, I have a strong command of various programming languages, including Golang, JavaScript, TypeScript, and PHP, and I'm proficient in both front-end and back-end development. I enjoy working with modern frameworks, but I also like digging into the nuts and bolts of how things work under the hood.
+As a developer, I have a strong command of various programming languages, including Golang, TypeScript, and PHP, and I'm proficient in both front-end and back-end development. I enjoy working with modern frameworks, but I also like digging into the nuts and bolts of how things work under the hood.
 
-Besides coding, I'm also familiar with tools like Terraform, Docker, and Packer for making deployment and management easier. I've tinkered around with a few cloud platforms too.
+Besides coding, I'm also familiar with tools like Docker, Terraform, and Packer for making deployment and management easier. I've tinkered around with a few cloud platforms too.
 
 Basically, I'm a hardworking guy who loves what he does. I take pride in my work and always strive to do my best. I'm eager to keep learning and making cool stuff with technology.
 
