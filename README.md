@@ -21,13 +21,13 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 36 mins
+Total Time: 1 hrs 38 mins
 
-Vue                 0 hrs 13 mins   [===......................]    13.29 %
-JSON                0 hrs 7 mins    [=........................]    7.70 %
-CSS                 0 hrs 7 mins    [=........................]    7.47 %
-XML                 0 hrs 4 mins    [=........................]    4.27 %
-Bash                0 hrs 3 mins    [.........................]    2.82 %
+Vue                 0 hrs 15 mins   [===......................]    15.07 %
+JSON                0 hrs 7 mins    [=........................]    7.54 %
+CSS                 0 hrs 7 mins    [=........................]    7.32 %
+XML                 0 hrs 4 mins    [=........................]    4.18 %
+Bash                0 hrs 3 mins    [.........................]    2.76 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -44,13 +44,13 @@ Bash                0 hrs 3 mins    [.........................]    2.82 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 36 mins
+Total Time: 1 hrs 38 mins
 
-Vue                 0 hrs 13 mins   [===......................]    13.29 %
-JSON                0 hrs 7 mins    [=........................]    7.70 %
-CSS                 0 hrs 7 mins    [=........................]    7.47 %
-XML                 0 hrs 4 mins    [=........................]    4.27 %
-Bash                0 hrs 3 mins    [.........................]    2.82 %
+Vue                 0 hrs 15 mins   [===......................]    15.07 %
+JSON                0 hrs 7 mins    [=........................]    7.54 %
+CSS                 0 hrs 7 mins    [=........................]    7.32 %
+XML                 0 hrs 4 mins    [=........................]    4.18 %
+Bash                0 hrs 3 mins    [.........................]    2.76 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -68,12 +68,12 @@ Bash                0 hrs 3 mins    [.........................]    2.82 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 70 hrs 32 mins
+Total Time: 70 hrs 34 mins
 
-Go                  10 hrs 3 mins   [===......................]    14.24 %
-Vue                 8 hrs 10 mins   [==.......................]    11.58 %
-Bash                3 hrs 59 mins   [=........................]    5.66 %
-YAML                3 hrs 12 mins   [=........................]    4.54 %
+Go                  10 hrs 3 mins   [===......................]    14.23 %
+Vue                 8 hrs 12 mins   [==.......................]    11.62 %
+Bash                3 hrs 59 mins   [=........................]    5.65 %
+YAML                3 hrs 12 mins   [=........................]    4.53 %
 SCSS                1 hrs 37 mins   [.........................]    2.30 %
 JSON                1 hrs 11 mins   [.........................]    1.68 %
 Markdown            0 hrs 59 mins   [.........................]    1.39 %
