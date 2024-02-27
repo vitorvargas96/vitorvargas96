@@ -18,11 +18,12 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-
+<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 0 mins
+Total Time: 0 hrs 2 mins
 
+Vue                 0 hrs 2 mins    [=========================]    100.00 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -41,11 +42,11 @@ Total Time: 0 hrs 0 mins
 ```txt
 Total Time: 1 hrs 40 mins
 
-Vue                 0 hrs 17 mins   [====.....................]    16.77 %
-JSON                0 hrs 7 mins    [=........................]    7.39 %
-CSS                 0 hrs 7 mins    [=........................]    7.17 %
-XML                 0 hrs 4 mins    [=........................]    4.10 %
-Bash                0 hrs 3 mins    [.........................]    2.71 %
+Vue                 0 hrs 17 mins   [====.....................]    16.88 %
+JSON                0 hrs 7 mins    [=........................]    7.38 %
+CSS                 0 hrs 7 mins    [=........................]    7.16 %
+XML                 0 hrs 4 mins    [=........................]    4.09 %
+Bash                0 hrs 3 mins    [.........................]    2.70 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
