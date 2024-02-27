@@ -21,9 +21,9 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 2 mins
+Total Time: 0 hrs 4 mins
 
-Vue                 0 hrs 2 mins    [=========================]    100.00 %
+Vue                 0 hrs 4 mins    [=========================]    100.00 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -40,13 +40,13 @@ Vue                 0 hrs 2 mins    [=========================]    100.00 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 40 mins
+Total Time: 1 hrs 42 mins
 
-Vue                 0 hrs 17 mins   [====.....................]    16.88 %
-JSON                0 hrs 7 mins    [=........................]    7.38 %
-CSS                 0 hrs 7 mins    [=........................]    7.16 %
-XML                 0 hrs 4 mins    [=........................]    4.09 %
-Bash                0 hrs 3 mins    [.........................]    2.70 %
+Vue                 0 hrs 19 mins   [====.....................]    18.51 %
+JSON                0 hrs 7 mins    [=........................]    7.24 %
+CSS                 0 hrs 7 mins    [=........................]    7.02 %
+XML                 0 hrs 4 mins    [=........................]    4.01 %
+Bash                0 hrs 3 mins    [.........................]    2.65 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -64,10 +64,10 @@ Bash                0 hrs 3 mins    [.........................]    2.70 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 70 hrs 36 mins
+Total Time: 70 hrs 38 mins
 
-Go                  10 hrs 3 mins   [===......................]    14.23 %
-Vue                 8 hrs 14 mins   [==.......................]    11.66 %
+Go                  10 hrs 3 mins   [===......................]    14.22 %
+Vue                 8 hrs 16 mins   [==.......................]    11.70 %
 Bash                3 hrs 59 mins   [=........................]    5.65 %
 YAML                3 hrs 12 mins   [=........................]    4.53 %
 SCSS                1 hrs 37 mins   [.........................]    2.30 %
@@ -79,7 +79,7 @@ SQL                 0 hrs 18 mins   [.........................]    0.43 %
 HTML                0 hrs 15 mins   [.........................]    0.35 %
 XML                 0 hrs 13 mins   [.........................]    0.30 %
 CSS                 0 hrs 11 mins   [.........................]    0.27 %
-Text                0 hrs 7 mins    [.........................]    0.16 %
+Text                0 hrs 7 mins    [.........................]    0.15 %
 ```
 
 <!--DEVTIMER::END-->
