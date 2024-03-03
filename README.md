@@ -36,19 +36,11 @@ Total Time: 0 hrs 0 mins
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 7 hrs 24 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          4 hrs 46 mins   [================.........]    64.40 %
-Bash                0 hrs 48 mins   [==.......................]    10.88 %
-Vue                 0 hrs 44 mins   [==.......................]    10.00 %
-SCSS                0 hrs 23 mins   [=........................]    5.24 %
-JSON                0 hrs 15 mins   [.........................]    3.49 %
-CSS                 0 hrs 7 mins    [.........................]    1.61 %
-JavaScript          0 hrs 6 mins    [.........................]    1.39 %
-XML                 0 hrs 4 mins    [.........................]    0.92 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
