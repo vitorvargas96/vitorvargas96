@@ -18,15 +18,15 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
 Total Time: 0 hrs 30 mins
 
 JavaScript          0 hrs 20 mins   [================.........]    66.55 %
 JSON                0 hrs 4 mins    [===......................]    14.48 %
-TypeScript          0 hrs 3 mins    [==.......................]    9.20 %
 Vue                 0 hrs 3 mins    [==.......................]    9.20 %
+TypeScript          0 hrs 3 mins    [==.......................]    9.20 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
