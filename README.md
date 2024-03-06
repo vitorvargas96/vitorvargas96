@@ -21,9 +21,9 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 3 mins
+Total Time: 0 hrs 13 mins
 
-JavaScript          0 hrs 3 mins    [=========================]    100.00 %
+JavaScript          0 hrs 13 mins   [========================.]    99.74 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -40,14 +40,14 @@ JavaScript          0 hrs 3 mins    [=========================]    100.00 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 2 hrs 22 mins
+Total Time: 2 hrs 31 mins
 
-JavaScript          1 hrs 34 mins   [================.........]    66.09 %
-Vue                 0 hrs 25 mins   [====.....................]    17.51 %
-YAML                0 hrs 7 mins    [=........................]    5.16 %
-TypeScript          0 hrs 5 mins    [.........................]    3.51 %
-JSON                0 hrs 5 mins    [.........................]    3.46 %
-Bash                0 hrs 4 mins    [.........................]    3.11 %
+JavaScript          1 hrs 43 mins   [=================........]    68.16 %
+Vue                 0 hrs 25 mins   [====.....................]    16.43 %
+YAML                0 hrs 7 mins    [=........................]    4.84 %
+TypeScript          0 hrs 5 mins    [.........................]    3.29 %
+JSON                0 hrs 5 mins    [.........................]    3.27 %
+Bash                0 hrs 4 mins    [.........................]    2.92 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -65,15 +65,15 @@ Bash                0 hrs 4 mins    [.........................]    3.11 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 78 hrs 42 mins
+Total Time: 78 hrs 51 mins
 
-TypeScript          41 hrs 50 mins  [=============............]    53.17 %
-Go                  10 hrs 3 mins   [===......................]    12.76 %
-Vue                 9 hrs 6 mins    [==.......................]    11.57 %
-Bash                4 hrs 49 mins   [=........................]    6.13 %
-YAML                3 hrs 19 mins   [=........................]    4.22 %
-JavaScript          2 hrs 30 mins   [.........................]    3.18 %
-JSON                1 hrs 24 mins   [.........................]    1.79 %
+TypeScript          41 hrs 50 mins  [=============............]    53.06 %
+Go                  10 hrs 3 mins   [===......................]    12.74 %
+Vue                 9 hrs 6 mins    [==.......................]    11.55 %
+Bash                4 hrs 49 mins   [=........................]    6.12 %
+YAML                3 hrs 19 mins   [=........................]    4.21 %
+JavaScript          2 hrs 40 mins   [.........................]    3.37 %
+JSON                1 hrs 24 mins   [.........................]    1.78 %
 Markdown            0 hrs 59 mins   [.........................]    1.24 %
 Docker              0 hrs 44 mins   [.........................]    0.93 %
 SQL                 0 hrs 18 mins   [.........................]    0.38 %
