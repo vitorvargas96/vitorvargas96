@@ -18,13 +18,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 0 hrs 6 mins
+Total Time: 0 hrs 0 mins
 
-SCSS                0 hrs 4 mins    [================.........]    67.21 %
-TypeScript          0 hrs 2 mins    [========.................]    32.79 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -38,18 +36,11 @@ TypeScript          0 hrs 2 mins    [========.................]    32.79 %
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 7 hrs 20 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          3 hrs 25 mins   [===========..............]    46.69 %
-JavaScript          2 hrs 56 mins   [==========...............]    40.04 %
-Vue                 0 hrs 25 mins   [=........................]    5.65 %
-Bash                0 hrs 11 mins   [.........................]    2.52 %
-YAML                0 hrs 10 mins   [.........................]    2.22 %
-JSON                0 hrs 7 mins    [.........................]    1.58 %
-SCSS                0 hrs 4 mins    [.........................]    0.93 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
