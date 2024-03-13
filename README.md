@@ -18,14 +18,14 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 2 hrs 56 mins
+Total Time: 3 hrs 13 mins
 
-TypeScript          1 hrs 10 mins   [=========................]    39.53 %
-Python              1 hrs 9 mins    [=========................]    38.87 %
-Go                  0 hrs 37 mins   [=====....................]    21.05 %
+Python              1 hrs 25 mins   [===========..............]    44.08 %
+TypeScript          1 hrs 10 mins   [=========................]    36.12 %
+Go                  0 hrs 37 mins   [====.....................]    19.30 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -42,12 +42,12 @@ Go                  0 hrs 37 mins   [=====....................]    21.05 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 11 hrs 18 mins
+Total Time: 11 hrs 35 mins
 
-TypeScript          7 hrs 7 mins    [===============..........]    62.94 %
-Go                  2 hrs 47 mins   [======...................]    24.61 %
-Python              1 hrs 9 mins    [==.......................]    10.11 %
-JavaScript          0 hrs 13 mins   [.........................]    1.87 %
+TypeScript          7 hrs 7 mins    [===============..........]    61.43 %
+Go                  2 hrs 47 mins   [======...................]    24.04 %
+Python              1 hrs 25 mins   [===......................]    12.24 %
+JavaScript          0 hrs 13 mins   [.........................]    1.82 %
 Bash                0 hrs 1 mins    [.........................]    0.17 %
 ```
 
@@ -66,24 +66,24 @@ Bash                0 hrs 1 mins    [.........................]    0.17 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 94 hrs 56 mins
+Total Time: 95 hrs 13 mins
 
-TypeScript          52 hrs 17 mins  [=============............]    55.09 %
-Go                  12 hrs 49 mins  [===......................]    13.51 %
-Vue                 9 hrs 6 mins    [==.......................]    9.59 %
-Bash                4 hrs 57 mins   [=........................]    5.22 %
-JavaScript          4 hrs 5 mins    [=........................]    4.30 %
-YAML                3 hrs 22 mins   [.........................]    3.54 %
+TypeScript          52 hrs 17 mins  [=============............]    54.93 %
+Go                  12 hrs 50 mins  [===......................]    13.47 %
+Vue                 9 hrs 6 mins    [==.......................]    9.56 %
+Bash                4 hrs 57 mins   [=........................]    5.20 %
+JavaScript          4 hrs 5 mins    [=........................]    4.29 %
+YAML                3 hrs 22 mins   [.........................]    3.53 %
 SCSS                2 hrs 3 mins    [.........................]    2.15 %
 JSON                1 hrs 27 mins   [.........................]    1.53 %
-Python              1 hrs 9 mins    [.........................]    1.20 %
+Python              1 hrs 25 mins   [.........................]    1.49 %
 Markdown            0 hrs 59 mins   [.........................]    1.03 %
 Docker              0 hrs 44 mins   [.........................]    0.77 %
 SQL                 0 hrs 18 mins   [.........................]    0.32 %
 HTML                0 hrs 16 mins   [.........................]    0.28 %
 XML                 0 hrs 13 mins   [.........................]    0.22 %
 CSS                 0 hrs 11 mins   [.........................]    0.20 %
-Text                0 hrs 7 mins    [.........................]    0.12 %
+Text                0 hrs 7 mins    [.........................]    0.11 %
 ```
 
 <!--DEVTIMER::END-->
