@@ -52,9 +52,9 @@ SQL                 0 hrs 11 mins   [.........................]    3.80 %
 PHP                 0 hrs 7 mins    [.........................]    2.39 %
 Bash                0 hrs 6 mins    [.........................]    1.93 %
 Docker              0 hrs 3 mins    [.........................]    0.98 %
+Nginx configuration file 0 hrs 2 mins    [.........................]    0.70 %
 JavaScript          0 hrs 2 mins    [.........................]    0.70 %
 Text                0 hrs 2 mins    [.........................]    0.70 %
-Nginx configuration file 0 hrs 2 mins    [.........................]    0.70 %
 Markdown            0 hrs 2 mins    [.........................]    0.62 %
 ```
 
