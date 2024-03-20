@@ -50,9 +50,9 @@ PHP                 0 hrs 7 mins    [.........................]    1.85 %
 Python              0 hrs 6 mins    [.........................]    1.68 %
 JSON                0 hrs 3 mins    [.........................]    0.94 %
 Docker              0 hrs 3 mins    [.........................]    0.76 %
-Nginx configuration file 0 hrs 2 mins    [.........................]    0.54 %
 Text                0 hrs 2 mins    [.........................]    0.54 %
 JavaScript          0 hrs 2 mins    [.........................]    0.54 %
+Nginx configuration file 0 hrs 2 mins    [.........................]    0.54 %
 Markdown            0 hrs 2 mins    [.........................]    0.48 %
 ```
 
