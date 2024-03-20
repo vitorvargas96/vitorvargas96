@@ -18,17 +18,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 1 hrs 35 mins
+Total Time: 0 hrs 0 mins
 
-SQL                 0 hrs 43 mins   [===========..............]    45.39 %
-TypeScript          0 hrs 19 mins   [====.....................]    19.68 %
-Bash                0 hrs 15 mins   [===......................]    15.39 %
-Go                  0 hrs 8 mins    [==.......................]    8.66 %
-Python              0 hrs 6 mins    [=........................]    6.53 %
-JSON                0 hrs 3 mins    [.........................]    3.65 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -56,9 +50,9 @@ PHP                 0 hrs 7 mins    [.........................]    1.85 %
 Python              0 hrs 6 mins    [.........................]    1.68 %
 JSON                0 hrs 3 mins    [.........................]    0.94 %
 Docker              0 hrs 3 mins    [.........................]    0.76 %
+Nginx configuration file 0 hrs 2 mins    [.........................]    0.54 %
 Text                0 hrs 2 mins    [.........................]    0.54 %
 JavaScript          0 hrs 2 mins    [.........................]    0.54 %
-Nginx configuration file 0 hrs 2 mins    [.........................]    0.54 %
 Markdown            0 hrs 2 mins    [.........................]    0.48 %
 ```
 
