@@ -18,15 +18,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 1 hrs 6 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          0 hrs 41 mins   [===============..........]    62.08 %
-Bash                0 hrs 20 mins   [=======..................]    30.01 %
-Python              0 hrs 4 mins    [=........................]    6.03 %
-XML                 0 hrs 1 mins    [.........................]    1.63 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -55,8 +51,8 @@ PHP                 0 hrs 7 mins    [.........................]    1.55 %
 JSON                0 hrs 3 mins    [.........................]    0.79 %
 Docker              0 hrs 3 mins    [.........................]    0.64 %
 JavaScript          0 hrs 2 mins    [.........................]    0.45 %
-Text                0 hrs 2 mins    [.........................]    0.45 %
 Nginx configuration file 0 hrs 2 mins    [.........................]    0.45 %
+Text                0 hrs 2 mins    [.........................]    0.45 %
 Markdown            0 hrs 2 mins    [.........................]    0.40 %
 XML                 0 hrs 1 mins    [.........................]    0.24 %
 ```
