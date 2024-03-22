@@ -54,8 +54,8 @@ YAML                0 hrs 29 mins   [=........................]    4.22 %
 Vue                 0 hrs 19 mins   [.........................]    2.77 %
 PHP                 0 hrs 7 mins    [.........................]    0.99 %
 Docker              0 hrs 3 mins    [.........................]    0.41 %
-Nginx configuration file 0 hrs 2 mins    [.........................]    0.29 %
 Text                0 hrs 2 mins    [.........................]    0.29 %
+Nginx configuration file 0 hrs 2 mins    [.........................]    0.29 %
 JavaScript          0 hrs 2 mins    [.........................]    0.29 %
 Markdown            0 hrs 2 mins    [.........................]    0.26 %
 XML                 0 hrs 1 mins    [.........................]    0.16 %
