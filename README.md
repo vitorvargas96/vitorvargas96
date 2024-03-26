@@ -23,7 +23,7 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 ```txt
 Total Time: 4 hrs 50 mins
 
-JSON                2 hrs 43 mins   [==============...........]    56.15 %
+JSON                2 hrs 43 mins   [==============...........]    56.16 %
 TypeScript          1 hrs 53 mins   [=========................]    39.10 %
 Vue                 0 hrs 13 mins   [=........................]    4.48 %
 ```
