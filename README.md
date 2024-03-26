@@ -18,11 +18,13 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-
+<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 0 mins
+Total Time: 0 hrs 4 mins
 
+JSON                0 hrs 2 mins    [==========...............]    40.91 %
+Vue                 0 hrs 1 mins    [======...................]    27.27 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -39,11 +41,11 @@ Total Time: 0 hrs 0 mins
 <img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 6 hrs 50 mins
+Total Time: 6 hrs 55 mins
 
-JSON                4 hrs 14 mins   [===============..........]    61.98 %
-TypeScript          2 hrs 21 mins   [========.................]    34.49 %
-Vue                 0 hrs 13 mins   [.........................]    3.17 %
+JSON                4 hrs 15 mins   [===============..........]    61.49 %
+TypeScript          2 hrs 23 mins   [========.................]    34.50 %
+Vue                 0 hrs 14 mins   [.........................]    3.37 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -61,14 +63,14 @@ Vue                 0 hrs 13 mins   [.........................]    3.17 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 127 hrs 3 mins
+Total Time: 127 hrs 9 mins
 
-TypeScript          58 hrs 50 mins  [===========..............]    46.31 %
-Go                  16 hrs 54 mins  [===......................]    13.30 %
-JSON                10 hrs 41 mins  [==.......................]    8.41 %
-Vue                 10 hrs 3 mins   [=........................]    7.91 %
-Python              9 hrs 2 mins    [=........................]    7.11 %
-Bash                6 hrs 1 mins    [=........................]    4.74 %
+TypeScript          58 hrs 52 mins  [===========..............]    46.30 %
+Go                  16 hrs 54 mins  [===......................]    13.29 %
+JSON                10 hrs 42 mins  [==.......................]    8.42 %
+Vue                 10 hrs 4 mins   [=........................]    7.92 %
+Python              9 hrs 2 mins    [=........................]    7.10 %
+Bash                6 hrs 1 mins    [=........................]    4.73 %
 YAML                4 hrs 16 mins   [.........................]    3.36 %
 JavaScript          4 hrs 7 mins    [.........................]    3.24 %
 SCSS                2 hrs 3 mins    [.........................]    1.61 %
