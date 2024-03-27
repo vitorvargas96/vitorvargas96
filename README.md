@@ -18,15 +18,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 4 hrs 8 mins
+Total Time: 0 hrs 0 mins
 
-Vue                 3 hrs 22 mins   [====================.....]    81.53 %
-JSON                0 hrs 21 mins   [==.......................]    8.39 %
-TypeScript          0 hrs 14 mins   [=........................]    5.84 %
-Python              0 hrs 9 mins    [.........................]    3.53 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
