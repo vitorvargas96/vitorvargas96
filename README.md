@@ -21,11 +21,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 55 mins
+Total Time: 1 hrs 59 mins
 
-Vue                 1 hrs 29 mins   [===================......]    77.76 %
-TypeScript          0 hrs 23 mins   [=====....................]    20.24 %
-SCSS                0 hrs 2 mins    [.........................]    1.78 %
+Vue                 1 hrs 34 mins   [===================......]    78.62 %
+TypeScript          0 hrs 23 mins   [====.....................]    19.45 %
+SCSS                0 hrs 2 mins    [.........................]    1.71 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -42,11 +42,11 @@ SCSS                0 hrs 2 mins    [.........................]    1.78 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 12 hrs 57 mins
+Total Time: 13 hrs 1 mins
 
-Vue                 5 hrs 7 mins    [=========................]    39.50 %
-JSON                4 hrs 35 mins   [========.................]    35.35 %
-Python              0 hrs 10 mins   [.........................]    1.23 %
+Vue                 5 hrs 11 mins   [=========................]    39.86 %
+JSON                4 hrs 35 mins   [========.................]    35.14 %
+Python              0 hrs 10 mins   [.........................]    1.22 %
 SCSS                0 hrs 2 mins    [.........................]    0.26 %
 ```
 
@@ -65,11 +65,11 @@ SCSS                0 hrs 2 mins    [.........................]    0.26 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 133 hrs 10 mins
+Total Time: 133 hrs 14 mins
 
-TypeScript          59 hrs 29 mins  [===========..............]    44.68 %
-Go                  16 hrs 54 mins  [===......................]    12.69 %
-Vue                 14 hrs 57 mins  [==.......................]    11.22 %
+TypeScript          59 hrs 29 mins  [===========..............]    44.65 %
+Go                  16 hrs 54 mins  [===......................]    12.68 %
+Vue                 15 hrs 1 mins   [==.......................]    11.28 %
 JSON                11 hrs 2 mins   [==.......................]    8.28 %
 Python              9 hrs 11 mins   [=........................]    6.89 %
 Bash                6 hrs 1 mins    [=........................]    4.52 %
