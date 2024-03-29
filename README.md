@@ -41,9 +41,9 @@ TypeScript          0 hrs 41 mins   [====.....................]    18.09 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 18 hrs 46 mins
+Total Time: 18 hrs 47 mins
 
-Vue                 10 hrs 5 mins   [=============............]    53.75 %
+Vue                 10 hrs 6 mins   [=============............]    53.76 %
 JSON                4 hrs 36 mins   [======...................]    24.46 %
 TypeScript          3 hrs 51 mins   [=====....................]    20.52 %
 Python              0 hrs 10 mins   [.........................]    0.84 %
@@ -67,7 +67,7 @@ SCSS                0 hrs 2 mins    [.........................]    0.18 %
 ```txt
 Total Time: 139 hrs 0 mins
 
-TypeScript          60 hrs 19 mins  [==========...............]    43.41 %
+TypeScript          60 hrs 19 mins  [==========...............]    43.40 %
 Vue                 19 hrs 55 mins  [===......................]    14.34 %
 Go                  16 hrs 54 mins  [===......................]    12.16 %
 JSON                11 hrs 3 mins   [=........................]    7.95 %
