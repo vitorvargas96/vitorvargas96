@@ -21,7 +21,7 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 
 
 ```txt
-Total Time: 0 hrs 1 mins
+Total Time: 0 hrs 0 mins
 
 ```
 
