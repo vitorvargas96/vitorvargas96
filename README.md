@@ -41,7 +41,7 @@ Total Time: 0 hrs 1 mins
 ```txt
 Total Time: 18 hrs 47 mins
 
-Vue                 10 hrs 6 mins   [=============............]    53.72 %
+Vue                 10 hrs 5 mins   [=============............]    53.71 %
 JSON                4 hrs 36 mins   [======...................]    24.44 %
 TypeScript          3 hrs 51 mins   [=====....................]    20.50 %
 Python              0 hrs 10 mins   [.........................]    0.84 %
