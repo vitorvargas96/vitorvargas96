@@ -18,13 +18,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 0 hrs 4 mins
+Total Time: 0 hrs 0 mins
 
-YAML                0 hrs 3 mins    [=================........]    68.07 %
-Vue                 0 hrs 1 mins    [======...................]    27.73 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -38,17 +36,11 @@ Vue                 0 hrs 1 mins    [======...................]    27.73 %
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 18 hrs 51 mins
+Total Time: 0 hrs 0 mins
 
-Vue                 10 hrs 7 mins   [=============............]    53.62 %
-JSON                4 hrs 36 mins   [======...................]    24.37 %
-TypeScript          3 hrs 51 mins   [=====....................]    20.43 %
-Python              0 hrs 10 mins   [.........................]    0.84 %
-YAML                0 hrs 4 mins    [.........................]    0.32 %
-SCSS                0 hrs 2 mins    [.........................]    0.18 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
