@@ -21,10 +21,10 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 35 mins
+Total Time: 0 hrs 45 mins
 
-Markdown            0 hrs 34 mins   [========================.]    96.94 %
-JSON                0 hrs 1 mins    [.........................]    3.01 %
+Markdown            0 hrs 44 mins   [========================.]    97.61 %
+JSON                0 hrs 1 mins    [.........................]    2.35 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -41,12 +41,12 @@ JSON                0 hrs 1 mins    [.........................]    3.01 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 1 mins
+Total Time: 1 hrs 11 mins
 
-Markdown            0 hrs 34 mins   [==============...........]    56.61 %
-Vue                 0 hrs 20 mins   [========.................]    32.29 %
-JSON                0 hrs 4 mins    [=........................]    6.16 %
-TypeScript          0 hrs 3 mins    [=........................]    4.92 %
+Markdown            0 hrs 44 mins   [===============..........]    62.72 %
+Vue                 0 hrs 20 mins   [======...................]    27.71 %
+JSON                0 hrs 4 mins    [=........................]    5.31 %
+TypeScript          0 hrs 3 mins    [=........................]    4.24 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
