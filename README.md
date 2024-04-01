@@ -21,14 +21,14 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 4 hrs 17 mins
+Total Time: 4 hrs 23 mins
 
-TypeScript          1 hrs 38 mins   [=========................]    38.13 %
-Vue                 1 hrs 28 mins   [========.................]    34.07 %
-Markdown            0 hrs 56 mins   [=====....................]    21.66 %
-JavaScript          0 hrs 8 mins    [.........................]    3.11 %
-JSON                0 hrs 6 mins    [.........................]    2.50 %
-HTML                0 hrs 1 mins    [.........................]    0.39 %
+TypeScript          1 hrs 40 mins   [=========................]    37.95 %
+Vue                 1 hrs 28 mins   [========.................]    33.37 %
+Markdown            0 hrs 56 mins   [=====....................]    21.22 %
+JavaScript          0 hrs 12 mins   [=........................]    4.50 %
+JSON                0 hrs 6 mins    [.........................]    2.45 %
+HTML                0 hrs 1 mins    [.........................]    0.38 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -42,16 +42,16 @@ HTML                0 hrs 1 mins    [.........................]    0.39 %
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 4 hrs 43 mins
+Total Time: 4 hrs 48 mins
 
-Vue                 1 hrs 47 mins   [=========................]    37.96 %
-TypeScript          1 hrs 41 mins   [========.................]    35.78 %
-Markdown            0 hrs 56 mins   [====.....................]    19.73 %
-JSON                0 hrs 9 mins    [.........................]    3.22 %
-JavaScript          0 hrs 8 mins    [.........................]    2.83 %
+Vue                 1 hrs 47 mins   [=========................]    37.24 %
+TypeScript          1 hrs 43 mins   [========.................]    35.66 %
+Markdown            0 hrs 56 mins   [====.....................]    19.35 %
+JavaScript          0 hrs 12 mins   [=........................]    4.10 %
+JSON                0 hrs 9 mins    [.........................]    3.16 %
 HTML                0 hrs 1 mins    [.........................]    0.35 %
 ```
 
