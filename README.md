@@ -21,10 +21,10 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 16 mins
+Total Time: 0 hrs 35 mins
 
-Markdown            0 hrs 15 mins   [=======================..]    93.44 %
-JSON                0 hrs 1 mins    [=........................]    6.56 %
+Markdown            0 hrs 34 mins   [========================.]    96.94 %
+JSON                0 hrs 1 mins    [.........................]    3.01 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -38,15 +38,15 @@ JSON                0 hrs 1 mins    [=........................]    6.56 %
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 42 mins
+Total Time: 1 hrs 1 mins
 
-Vue                 0 hrs 20 mins   [===========..............]    47.19 %
-Markdown            0 hrs 15 mins   [=========................]    36.63 %
-JSON                0 hrs 4 mins    [==.......................]    9.00 %
-TypeScript          0 hrs 3 mins    [=........................]    7.19 %
+Markdown            0 hrs 34 mins   [==============...........]    56.61 %
+Vue                 0 hrs 20 mins   [========.................]    32.29 %
+JSON                0 hrs 4 mins    [=........................]    6.16 %
+TypeScript          0 hrs 3 mins    [=........................]    4.92 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
