@@ -18,15 +18,16 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 29 mins
+Total Time: 1 hrs 43 mins
 
-Markdown            0 hrs 56 mins   [===============..........]    62.46 %
-Vue                 0 hrs 26 mins   [=======..................]    28.73 %
-JSON                0 hrs 5 mins    [=........................]    6.13 %
-JavaScript          0 hrs 2 mins    [.........................]    2.35 %
+Markdown            0 hrs 56 mins   [=============............]    54.27 %
+Vue                 0 hrs 33 mins   [========.................]    32.26 %
+TypeScript          0 hrs 6 mins    [=........................]    5.83 %
+JSON                0 hrs 5 mins    [=........................]    5.32 %
+JavaScript          0 hrs 2 mins    [.........................]    2.04 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -40,16 +41,16 @@ JavaScript          0 hrs 2 mins    [.........................]    2.35 %
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 55 mins
+Total Time: 2 hrs 8 mins
 
-Markdown            0 hrs 56 mins   [============.............]    48.67 %
-Vue                 0 hrs 45 mins   [=========................]    39.50 %
-JSON                0 hrs 8 mins    [=........................]    7.12 %
-TypeScript          0 hrs 3 mins    [.........................]    2.63 %
-JavaScript          0 hrs 2 mins    [.........................]    1.83 %
+Markdown            0 hrs 56 mins   [==========...............]    43.55 %
+Vue                 0 hrs 53 mins   [==========...............]    41.20 %
+TypeScript          0 hrs 9 mins    [=........................]    7.02 %
+JSON                0 hrs 8 mins    [=........................]    6.37 %
+JavaScript          0 hrs 2 mins    [.........................]    1.64 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
