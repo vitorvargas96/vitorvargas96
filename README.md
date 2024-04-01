@@ -21,13 +21,13 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 2 hrs 33 mins
+Total Time: 2 hrs 35 mins
 
-TypeScript          0 hrs 57 mins   [=========................]    36.89 %
-Markdown            0 hrs 56 mins   [=========................]    36.34 %
-Vue                 0 hrs 33 mins   [=====....................]    21.60 %
-JSON                0 hrs 5 mins    [.........................]    3.56 %
-JavaScript          0 hrs 2 mins    [.........................]    1.37 %
+TypeScript          0 hrs 59 mins   [=========................]    37.71 %
+Markdown            0 hrs 56 mins   [========.................]    35.87 %
+Vue                 0 hrs 33 mins   [=====....................]    21.33 %
+JSON                0 hrs 5 mins    [.........................]    3.52 %
+JavaScript          0 hrs 2 mins    [.........................]    1.35 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -44,13 +44,13 @@ JavaScript          0 hrs 2 mins    [.........................]    1.37 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 2 hrs 59 mins
+Total Time: 3 hrs 1 mins
 
-TypeScript          1 hrs 0 mins    [========.................]    33.35 %
-Markdown            0 hrs 56 mins   [=======..................]    31.20 %
-Vue                 0 hrs 53 mins   [=======..................]    29.52 %
-JSON                0 hrs 8 mins    [=........................]    4.56 %
-JavaScript          0 hrs 2 mins    [.........................]    1.18 %
+TypeScript          1 hrs 2 mins    [========.................]    34.09 %
+Markdown            0 hrs 56 mins   [=======..................]    30.85 %
+Vue                 0 hrs 53 mins   [=======..................]    29.19 %
+JSON                0 hrs 8 mins    [=........................]    4.51 %
+JavaScript          0 hrs 2 mins    [.........................]    1.16 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
