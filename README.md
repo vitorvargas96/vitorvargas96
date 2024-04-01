@@ -21,9 +21,9 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 2 mins
+Total Time: 0 hrs 14 mins
 
-Vue                 0 hrs 2 mins    [=========================]    100.00 %
+Vue                 0 hrs 13 mins   [=======================..]    95.11 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -40,9 +40,9 @@ Vue                 0 hrs 2 mins    [=========================]    100.00 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 2 mins
+Total Time: 0 hrs 14 mins
 
-Vue                 0 hrs 2 mins    [=========================]    100.00 %
+Vue                 0 hrs 13 mins   [=======================..]    95.11 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
