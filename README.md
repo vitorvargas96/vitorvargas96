@@ -24,8 +24,8 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 Total Time: 3 hrs 28 mins
 
 TypeScript          2 hrs 0 mins    [==============...........]    57.60 %
-JavaScript          0 hrs 52 mins   [======...................]    25.06 %
-Vue                 0 hrs 35 mins   [====.....................]    16.73 %
+JavaScript          0 hrs 52 mins   [======...................]    25.05 %
+Vue                 0 hrs 35 mins   [====.....................]    16.72 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
