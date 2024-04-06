@@ -23,10 +23,10 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 ```txt
 Total Time: 0 hrs 49 mins
 
-TypeScript          0 hrs 34 mins   [=================........]    69.52 %
-Vue                 0 hrs 7 mins    [===......................]    15.03 %
-XML                 0 hrs 5 mins    [==.......................]    11.08 %
-CSS                 0 hrs 2 mins    [.........................]    3.65 %
+TypeScript          0 hrs 34 mins   [=================........]    69.96 %
+Vue                 0 hrs 7 mins    [===......................]    14.82 %
+XML                 0 hrs 5 mins    [==.......................]    10.92 %
+CSS                 0 hrs 2 mins    [.........................]    3.59 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -45,8 +45,8 @@ CSS                 0 hrs 2 mins    [.........................]    3.65 %
 ```txt
 Total Time: 14 hrs 26 mins
 
-TypeScript          9 hrs 2 mins    [===============..........]    62.63 %
-Vue                 2 hrs 35 mins   [====.....................]    17.95 %
+TypeScript          9 hrs 2 mins    [===============..........]    62.62 %
+Vue                 2 hrs 35 mins   [====.....................]    17.96 %
 JavaScript          1 hrs 9 mins    [=........................]    7.97 %
 Markdown            0 hrs 56 mins   [=........................]    6.44 %
 Bash                0 hrs 20 mins   [.........................]    2.34 %
@@ -73,8 +73,8 @@ HTML                0 hrs 1 mins    [.........................]    0.14 %
 ```txt
 Total Time: 153 hrs 30 mins
 
-TypeScript          69 hrs 22 mins  [===========..............]    45.19 %
-Vue                 22 hrs 31 mins  [===......................]    14.67 %
+TypeScript          69 hrs 21 mins  [===========..............]    45.19 %
+Vue                 22 hrs 31 mins  [===......................]    14.68 %
 Go                  16 hrs 54 mins  [==.......................]    11.01 %
 JSON                11 hrs 16 mins  [=........................]    7.34 %
 Python              9 hrs 11 mins   [=........................]    5.98 %
