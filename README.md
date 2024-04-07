@@ -18,12 +18,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 0 hrs 11 mins
+Total Time: 0 hrs 0 mins
 
-JSON                0 hrs 10 mins   [=====================....]    86.59 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -37,20 +36,11 @@ JSON                0 hrs 10 mins   [=====================....]    86.59 %
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 14 hrs 36 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          9 hrs 1 mins    [===============..........]    61.79 %
-Vue                 2 hrs 35 mins   [====.....................]    17.74 %
-JavaScript          1 hrs 9 mins    [=........................]    7.87 %
-Markdown            0 hrs 56 mins   [=........................]    6.36 %
-JSON                0 hrs 23 mins   [.........................]    2.59 %
-Bash                0 hrs 20 mins   [.........................]    2.31 %
-XML                 0 hrs 6 mins    [.........................]    0.69 %
-CSS                 0 hrs 2 mins    [.........................]    0.21 %
-HTML                0 hrs 1 mins    [.........................]    0.14 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
