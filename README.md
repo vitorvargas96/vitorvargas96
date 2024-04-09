@@ -23,9 +23,9 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 ```txt
 Total Time: 0 hrs 59 mins
 
-TypeScript          0 hrs 30 mins   [============.............]    51.75 %
-JavaScript          0 hrs 25 mins   [==========...............]    42.75 %
-JSON                0 hrs 1 mins    [.........................]    1.96 %
+TypeScript          0 hrs 30 mins   [============.............]    51.18 %
+JavaScript          0 hrs 26 mins   [==========...............]    43.37 %
+JSON                0 hrs 1 mins    [.........................]    1.94 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -44,9 +44,9 @@ JSON                0 hrs 1 mins    [.........................]    1.96 %
 ```txt
 Total Time: 0 hrs 59 mins
 
-TypeScript          0 hrs 30 mins   [============.............]    51.75 %
-JavaScript          0 hrs 25 mins   [==========...............]    42.75 %
-JSON                0 hrs 1 mins    [.........................]    1.96 %
+TypeScript          0 hrs 30 mins   [============.............]    51.18 %
+JavaScript          0 hrs 26 mins   [==========...............]    43.37 %
+JSON                0 hrs 1 mins    [.........................]    1.94 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -67,12 +67,12 @@ JSON                0 hrs 1 mins    [.........................]    1.96 %
 Total Time: 154 hrs 39 mins
 
 TypeScript          69 hrs 51 mins  [===========..............]    45.17 %
-Vue                 22 hrs 31 mins  [===......................]    14.57 %
-Go                  16 hrs 55 mins  [==.......................]    10.94 %
+Vue                 22 hrs 31 mins  [===......................]    14.56 %
+Go                  16 hrs 55 mins  [==.......................]    10.93 %
 JSON                11 hrs 26 mins  [=........................]    7.40 %
 Python              9 hrs 11 mins   [=........................]    5.93 %
 Bash                6 hrs 21 mins   [=........................]    4.11 %
-JavaScript          5 hrs 42 mins   [.........................]    3.68 %
+JavaScript          5 hrs 42 mins   [.........................]    3.69 %
 YAML                4 hrs 20 mins   [.........................]    2.80 %
 SCSS                2 hrs 5 mins    [.........................]    1.35 %
 Markdown            1 hrs 56 mins   [.........................]    1.25 %
