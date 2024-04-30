@@ -21,11 +21,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 3 hrs 18 mins
+Total Time: 3 hrs 20 mins
 
-TypeScript          2 hrs 36 mins   [===================......]    78.73 %
-Vue                 0 hrs 36 mins   [====.....................]    18.02 %
-Go                  0 hrs 6 mins    [.........................]    3.12 %
+TypeScript          2 hrs 36 mins   [===================......]    77.98 %
+Vue                 0 hrs 38 mins   [====.....................]    18.80 %
+Go                  0 hrs 6 mins    [.........................]    3.09 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -42,11 +42,11 @@ Go                  0 hrs 6 mins    [.........................]    3.12 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 3 hrs 18 mins
+Total Time: 3 hrs 20 mins
 
-TypeScript          2 hrs 36 mins   [===================......]    78.73 %
-Vue                 0 hrs 36 mins   [====.....................]    18.02 %
-Go                  0 hrs 6 mins    [.........................]    3.12 %
+TypeScript          2 hrs 36 mins   [===================......]    77.98 %
+Vue                 0 hrs 38 mins   [====.....................]    18.80 %
+Go                  0 hrs 6 mins    [.........................]    3.09 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -64,10 +64,10 @@ Go                  0 hrs 6 mins    [.........................]    3.12 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 187 hrs 44 mins
+Total Time: 187 hrs 46 mins
 
-TypeScript          95 hrs 19 mins  [============.............]    50.78 %
-Vue                 27 hrs 7 mins   [===......................]    14.45 %
+TypeScript          95 hrs 19 mins  [============.............]    50.77 %
+Vue                 27 hrs 9 mins   [===......................]    14.46 %
 Go                  17 hrs 32 mins  [==.......................]    9.34 %
 JSON                11 hrs 32 mins  [=........................]    6.15 %
 Python              9 hrs 11 mins   [=........................]    4.89 %
