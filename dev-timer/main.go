@@ -22,7 +22,6 @@ func main() {
 
 func updateDevTimer(rangeTime string) {
 	data, err := client.GetTimer(rangeTime)
-	fmt.Println(data)
 
 	if err != nil {
 		fmt.Println(err)
