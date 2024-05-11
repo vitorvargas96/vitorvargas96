@@ -22,13 +22,18 @@ func generateLanguageText(languages []client.Languages, totalTime string) string
 	text += fmt.Sprintf("Total Time: %s\n\n", totalTime)
 
 	for _, language := range languages {
-		if language.Name == "unknown" || language.Percent == 0 || language.Minutes == 0 {
+		langName := language.Name
+		if langName == "unknown" || language.Percent == 0 || language.Minutes == 0 {
 			continue
 		}
 
 		progressBar := generateProgressBar(language.Percent)
 
-		text += fmt.Sprintf("%s%s %s%s %s    %.2f %%\n", language.Name, generateSpaceAfterLanguage(language.Name), language.Text, generateSpaceAfterTime(language.Text), progressBar, language.Percent)
+		if langName == "Nginx configuration file" {
+			langName = "Nginx"
+		}
+
+		text += fmt.Sprintf("%s%s %s%s %s    %.2f %%\n", langName, generateSpaceAfterLanguage(language.Name), language.Text, generateSpaceAfterTime(language.Text), progressBar, language.Percent)
 	}
 
 	text += "```\n\n"
