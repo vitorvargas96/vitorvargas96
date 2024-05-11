@@ -33,7 +33,7 @@ func generateLanguageText(languages []client.Languages, totalTime string) string
 			langName = "Nginx"
 		}
 
-		text += fmt.Sprintf("%s%s %s%s %s    %.2f %%\n", langName, generateSpaceAfterLanguage(language.Name), language.Text, generateSpaceAfterTime(language.Text), progressBar, language.Percent)
+		text += fmt.Sprintf("%s%s %s%s %s    %.2f %%\n", langName, generateSpaceAfterLanguage(langName), language.Text, generateSpaceAfterTime(language.Text), progressBar, language.Percent)
 	}
 
 	text += "```\n\n"
