@@ -21,10 +21,10 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 24 mins
+Total Time: 1 hrs 37 mins
 
-Go                  1 hrs 3 mins    [==================.......]    75.47 %
-Markdown            0 hrs 21 mins   [======...................]    24.53 %
+Go                  1 hrs 5 mins    [================.........]    66.89 %
+Markdown            0 hrs 32 mins   [========.................]    33.11 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -41,10 +41,10 @@ Markdown            0 hrs 21 mins   [======...................]    24.53 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 24 mins
+Total Time: 1 hrs 37 mins
 
-Go                  1 hrs 3 mins    [==================.......]    75.47 %
-Markdown            0 hrs 21 mins   [======...................]    24.53 %
+Go                  1 hrs 5 mins    [================.........]    66.89 %
+Markdown            0 hrs 32 mins   [========.................]    33.11 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -59,19 +59,20 @@ Markdown            0 hrs 21 mins   [======...................]    24.53 %
 &nbsp;
 
 <!--DEVTIMER::START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 220 hrs 39 mins
+Total Time: 220 hrs 53 mins
 
-TypeScript          109 hrs 29 mins [============.............]    49.62 %
-Vue                 30 hrs 2 mins   [===......................]    13.61 %
-Go                  19 hrs 46 mins  [==.......................]    8.96 %
+TypeScript          109 hrs 29 mins [============.............]    49.57 %
+Vue                 30 hrs 2 mins   [===......................]    13.60 %
+Go                  19 hrs 47 mins  [==.......................]    8.96 %
 JSON                11 hrs 49 mins  [=........................]    5.35 %
 Bash                10 hrs 42 mins  [=........................]    4.85 %
-Python              9 hrs 11 mins   [=........................]    4.16 %
+Python              9 hrs 11 mins   [=........................]    4.15 %
 JavaScript          6 hrs 6 mins    [.........................]    2.76 %
 YAML                4 hrs 54 mins   [.........................]    2.22 %
+Markdown            4 hrs 12 mins   [.........................]    1.90 %
 SCSS                3 hrs 9 mins    [.........................]    1.42 %
 Docker              2 hrs 45 mins   [.........................]    1.25 %
 HTML                1 hrs 26 mins   [.........................]    0.65 %
