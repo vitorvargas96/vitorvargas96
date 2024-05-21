@@ -21,9 +21,9 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 4 mins
+Total Time: 0 hrs 11 mins
 
-TypeScript          0 hrs 3 mins    [====================.....]    81.59 %
+TypeScript          0 hrs 10 mins   [=======================..]    93.22 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -40,12 +40,12 @@ TypeScript          0 hrs 3 mins    [====================.....]    81.59 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 6 hrs 53 mins
+Total Time: 7 hrs 0 mins
 
-Go                  4 hrs 15 mins   [===============..........]    61.86 %
-Markdown            1 hrs 38 mins   [=====....................]    23.82 %
-TypeScript          0 hrs 56 mins   [===......................]    13.61 %
-JSON                0 hrs 2 mins    [.........................]    0.48 %
+Go                  4 hrs 15 mins   [===============..........]    60.85 %
+Markdown            1 hrs 38 mins   [=====....................]    23.43 %
+TypeScript          1 hrs 3 mins    [===......................]    15.02 %
+JSON                0 hrs 2 mins    [.........................]    0.47 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -63,13 +63,13 @@ JSON                0 hrs 2 mins    [.........................]    0.48 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 226 hrs 8 mins
+Total Time: 226 hrs 15 mins
 
-TypeScript          110 hrs 25 mins [============.............]    48.84 %
+TypeScript          110 hrs 32 mins [============.............]    48.86 %
 Vue                 30 hrs 2 mins   [===......................]    13.28 %
 Go                  22 hrs 57 mins  [==.......................]    10.15 %
 JSON                11 hrs 51 mins  [=........................]    5.24 %
-Bash                10 hrs 42 mins  [=........................]    4.74 %
+Bash                10 hrs 42 mins  [=........................]    4.73 %
 Python              9 hrs 11 mins   [=........................]    4.06 %
 JavaScript          6 hrs 6 mins    [.........................]    2.69 %
 Markdown            5 hrs 18 mins   [.........................]    2.34 %
