@@ -36,19 +36,11 @@ Total Time: 0 hrs 0 mins
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 16 hrs 34 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          9 hrs 49 mins   [==============...........]    59.30 %
-Go                  4 hrs 15 mins   [======...................]    25.68 %
-Markdown            1 hrs 45 mins   [==.......................]    10.57 %
-HTML                0 hrs 11 mins   [.........................]    1.08 %
-YAML                0 hrs 9 mins    [.........................]    0.93 %
-Bash                0 hrs 9 mins    [.........................]    0.90 %
-Docker              0 hrs 2 mins    [.........................]    0.24 %
-JSON                0 hrs 2 mins    [.........................]    0.20 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
