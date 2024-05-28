@@ -18,14 +18,12 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 2 hrs 1 mins
+Total Time: 0 hrs 2 mins
 
-TypeScript          1 hrs 54 mins   [=======================..]    94.12 %
-Bash                0 hrs 5 mins    [.........................]    3.76 %
-HTML                0 hrs 2 mins    [.........................]    1.68 %
+TypeScript          0 hrs 2 mins    [=========================]    100.00 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -68,7 +66,7 @@ Total Time: 237 hrs 48 mins
 
 TypeScript          121 hrs 12 mins [============.............]    50.97 %
 Vue                 30 hrs 2 mins   [===......................]    12.63 %
-Go                  22 hrs 57 mins  [==.......................]    9.66 %
+Go                  22 hrs 57 mins  [==.......................]    9.65 %
 JSON                11 hrs 51 mins  [=........................]    4.98 %
 Bash                10 hrs 54 mins  [=........................]    4.58 %
 Python              9 hrs 11 mins   [.........................]    3.86 %
