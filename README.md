@@ -18,13 +18,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 3 hrs 41 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          3 hrs 25 mins   [=======================..]    92.89 %
-Bash                0 hrs 16 mins   [=........................]    7.09 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
