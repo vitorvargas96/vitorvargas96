@@ -21,8 +21,9 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 
 
 ```txt
-Total Time: 0 hrs 0 mins
+Total Time: 0 hrs 1 mins
 
+VimL                0 hrs 1 mins    [=========================]    100.00 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -39,11 +40,12 @@ Total Time: 0 hrs 0 mins
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 5 hrs 58 mins
+Total Time: 5 hrs 57 mins
 
-TypeScript          5 hrs 35 mins   [=======================..]    93.63 %
-Bash                0 hrs 20 mins   [=........................]    5.64 %
+TypeScript          5 hrs 33 mins   [=======================..]    93.27 %
+Bash                0 hrs 20 mins   [=........................]    5.65 %
 HTML                0 hrs 2 mins    [.........................]    0.57 %
+VimL                0 hrs 1 mins    [.........................]    0.35 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -63,7 +65,7 @@ HTML                0 hrs 2 mins    [.........................]    0.57 %
 ```txt
 Total Time: 241 hrs 45 mins
 
-TypeScript          124 hrs 54 mins [============.............]    51.67 %
+TypeScript          124 hrs 52 mins [============.............]    51.66 %
 Vue                 30 hrs 2 mins   [===......................]    12.43 %
 Go                  22 hrs 57 mins  [==.......................]    9.50 %
 JSON                11 hrs 51 mins  [=........................]    4.90 %
@@ -83,6 +85,7 @@ CSS                 0 hrs 13 mins   [.........................]    0.09 %
 Text                0 hrs 12 mins   [.........................]    0.08 %
 TSX                 0 hrs 9 mins    [.........................]    0.06 %
 PHP                 0 hrs 7 mins    [.........................]    0.05 %
+VimL                0 hrs 1 mins    [.........................]    0.01 %
 Sass                0 hrs 1 mins    [.........................]    0.01 %
 ```
 
