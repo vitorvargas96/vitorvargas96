@@ -18,14 +18,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 2 hrs 7 mins
+Total Time: 0 hrs 0 mins
 
-Go                  1 hrs 53 mins   [======================...]    88.81 %
-YAML                0 hrs 9 mins    [=........................]    7.47 %
-Markdown            0 hrs 5 mins    [.........................]    3.73 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
