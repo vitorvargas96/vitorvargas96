@@ -18,14 +18,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 1 hrs 56 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          1 hrs 16 mins   [================.........]    65.43 %
-Go                  0 hrs 29 mins   [======...................]    25.04 %
-Bash                0 hrs 11 mins   [==.......................]    9.21 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -39,18 +36,11 @@ Bash                0 hrs 11 mins   [==.......................]    9.21 %
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 12 hrs 2 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          8 hrs 14 mins   [=================........]    68.43 %
-Go                  2 hrs 27 mins   [=====....................]    20.40 %
-Bash                0 hrs 42 mins   [=........................]    5.78 %
-YAML                0 hrs 12 mins   [.........................]    1.69 %
-HTML                0 hrs 6 mins    [.........................]    0.87 %
-Markdown            0 hrs 6 mins    [.........................]    0.84 %
-VimL                0 hrs 6 mins    [.........................]    0.78 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
