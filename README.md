@@ -18,14 +18,14 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 46 mins
+Total Time: 0 hrs 54 mins
 
-Bash                0 hrs 16 mins   [========.................]    33.86 %
-Go                  0 hrs 15 mins   [========.................]    33.21 %
-TypeScript          0 hrs 15 mins   [========.................]    32.89 %
+TypeScript          0 hrs 22 mins   [==========...............]    41.73 %
+Bash                0 hrs 16 mins   [=======..................]    29.40 %
+Go                  0 hrs 15 mins   [=======..................]    28.84 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -39,14 +39,14 @@ TypeScript          0 hrs 15 mins   [========.................]    32.89 %
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 46 mins
+Total Time: 0 hrs 54 mins
 
-Bash                0 hrs 16 mins   [========.................]    33.86 %
-Go                  0 hrs 15 mins   [========.................]    33.21 %
-TypeScript          0 hrs 15 mins   [========.................]    32.89 %
+TypeScript          0 hrs 22 mins   [==========...............]    41.73 %
+Bash                0 hrs 16 mins   [=======..................]    29.40 %
+Go                  0 hrs 15 mins   [=======..................]    28.84 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -64,16 +64,16 @@ TypeScript          0 hrs 15 mins   [========.................]    32.89 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 262 hrs 50 mins
+Total Time: 262 hrs 57 mins
 
-TypeScript          138 hrs 39 mins [=============............]    52.76 %
-Vue                 30 hrs 2 mins   [==.......................]    11.43 %
-Go                  26 hrs 39 mins  [==.......................]    10.14 %
+TypeScript          138 hrs 46 mins [=============............]    52.78 %
+Vue                 30 hrs 2 mins   [==.......................]    11.42 %
+Go                  26 hrs 39 mins  [==.......................]    10.13 %
 Bash                12 hrs 20 mins  [=........................]    4.69 %
-JSON                12 hrs 11 mins  [=........................]    4.64 %
+JSON                12 hrs 11 mins  [=........................]    4.63 %
 Python              9 hrs 11 mins   [.........................]    3.49 %
 JavaScript          6 hrs 6 mins    [.........................]    2.32 %
-Markdown            5 hrs 48 mins   [.........................]    2.21 %
+Markdown            5 hrs 48 mins   [.........................]    2.20 %
 YAML                5 hrs 16 mins   [.........................]    2.00 %
 SCSS                3 hrs 9 mins    [.........................]    1.20 %
 Docker              2 hrs 48 mins   [.........................]    1.06 %
