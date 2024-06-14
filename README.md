@@ -21,9 +21,9 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 1 hrs 15 mins
+Total Time: 1 hrs 34 mins
 
-TypeScript          1 hrs 13 mins   [========================.]    96.15 %
+TypeScript          1 hrs 31 mins   [========================.]    96.90 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -40,17 +40,17 @@ TypeScript          1 hrs 13 mins   [========================.]    96.15 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 10 hrs 17 mins
+Total Time: 10 hrs 35 mins
 
-TypeScript          7 hrs 58 mins   [===================......]    77.53 %
-Bash                0 hrs 47 mins   [=........................]    7.68 %
-JavaScript          0 hrs 29 mins   [=........................]    4.75 %
-VimL                0 hrs 21 mins   [.........................]    3.46 %
-Go                  0 hrs 15 mins   [.........................]    2.50 %
-MySQL               0 hrs 11 mins   [.........................]    1.71 %
-YAML                0 hrs 6 mins    [.........................]    1.03 %
-JSON                0 hrs 3 mins    [.........................]    0.46 %
-Vue                 0 hrs 2 mins    [.........................]    0.31 %
+TypeScript          8 hrs 16 mins   [===================......]    78.17 %
+Bash                0 hrs 47 mins   [=........................]    7.46 %
+JavaScript          0 hrs 29 mins   [=........................]    4.61 %
+VimL                0 hrs 21 mins   [.........................]    3.36 %
+Go                  0 hrs 15 mins   [.........................]    2.43 %
+MySQL               0 hrs 11 mins   [.........................]    1.66 %
+YAML                0 hrs 6 mins    [.........................]    1.00 %
+JSON                0 hrs 3 mins    [.........................]    0.45 %
+Vue                 0 hrs 2 mins    [.........................]    0.30 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -68,23 +68,23 @@ Vue                 0 hrs 2 mins    [.........................]    0.31 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 272 hrs 20 mins
+Total Time: 272 hrs 38 mins
 
-TypeScript          146 hrs 22 mins [=============............]    53.75 %
-Vue                 30 hrs 4 mins   [==.......................]    11.04 %
-Go                  26 hrs 39 mins  [==.......................]    9.78 %
+TypeScript          146 hrs 40 mins [=============............]    53.80 %
+Vue                 30 hrs 4 mins   [==.......................]    11.03 %
+Go                  26 hrs 39 mins  [==.......................]    9.77 %
 Bash                12 hrs 52 mins  [=........................]    4.72 %
 JSON                12 hrs 14 mins  [=........................]    4.49 %
 Python              9 hrs 11 mins   [.........................]    3.37 %
-JavaScript          6 hrs 35 mins   [.........................]    2.42 %
+JavaScript          6 hrs 35 mins   [.........................]    2.41 %
 Markdown            5 hrs 48 mins   [.........................]    2.13 %
 YAML                5 hrs 22 mins   [.........................]    1.97 %
 SCSS                3 hrs 9 mins    [.........................]    1.15 %
 Docker              2 hrs 48 mins   [.........................]    1.03 %
-HTML                1 hrs 46 mins   [.........................]    0.65 %
+HTML                1 hrs 46 mins   [.........................]    0.64 %
 VimL                1 hrs 23 mins   [.........................]    0.51 %
 SQL                 1 hrs 10 mins   [.........................]    0.43 %
-Nginx               0 hrs 29 mins   [.........................]    0.18 %
+Nginx               0 hrs 29 mins   [.........................]    0.17 %
 INI                 0 hrs 20 mins   [.........................]    0.13 %
 XML                 0 hrs 20 mins   [.........................]    0.12 %
 Text                0 hrs 17 mins   [.........................]    0.10 %
