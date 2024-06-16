@@ -18,12 +18,11 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 0 hrs 2 mins
+Total Time: 0 hrs 0 mins
 
-Bash                0 hrs 2 mins    [=========================]    100.00 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -37,20 +36,11 @@ Bash                0 hrs 2 mins    [=========================]    100.00 %
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 11 hrs 50 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          9 hrs 26 mins   [===================......]    79.70 %
-Bash                0 hrs 50 mins   [=........................]    7.00 %
-JavaScript          0 hrs 29 mins   [=........................]    4.13 %
-VimL                0 hrs 25 mins   [.........................]    3.46 %
-Go                  0 hrs 15 mins   [.........................]    2.18 %
-MySQL               0 hrs 11 mins   [.........................]    1.48 %
-YAML                0 hrs 6 mins    [.........................]    0.90 %
-JSON                0 hrs 3 mins    [.........................]    0.40 %
-Vue                 0 hrs 2 mins    [.........................]    0.27 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
