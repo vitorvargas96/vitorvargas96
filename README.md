@@ -23,10 +23,10 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 ```txt
 Total Time: 0 hrs 33 mins
 
-TypeScript          0 hrs 15 mins   [===========..............]    44.93 %
-VimL                0 hrs 10 mins   [=======..................]    31.87 %
-YAML                0 hrs 5 mins    [===......................]    15.81 %
-Bash                0 hrs 2 mins    [=........................]    6.68 %
+TypeScript          0 hrs 15 mins   [===========..............]    45.59 %
+VimL                0 hrs 10 mins   [=======..................]    31.49 %
+YAML                0 hrs 5 mins    [===......................]    15.62 %
+Bash                0 hrs 2 mins    [=........................]    6.60 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -45,10 +45,10 @@ Bash                0 hrs 2 mins    [=........................]    6.68 %
 ```txt
 Total Time: 0 hrs 33 mins
 
-TypeScript          0 hrs 15 mins   [===========..............]    44.93 %
-VimL                0 hrs 10 mins   [=======..................]    31.87 %
-YAML                0 hrs 5 mins    [===......................]    15.81 %
-Bash                0 hrs 2 mins    [=........................]    6.68 %
+TypeScript          0 hrs 15 mins   [===========..............]    45.59 %
+VimL                0 hrs 10 mins   [=======..................]    31.49 %
+YAML                0 hrs 5 mins    [===......................]    15.62 %
+Bash                0 hrs 2 mins    [=........................]    6.60 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
