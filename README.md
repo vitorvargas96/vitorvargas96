@@ -18,11 +18,12 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-
+<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 0 mins
+Total Time: 0 hrs 3 mins
 
+TypeScript          0 hrs 3 mins    [=========================]    100.00 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -41,10 +42,10 @@ Total Time: 0 hrs 0 mins
 ```txt
 Total Time: 3 hrs 22 mins
 
-TypeScript          2 hrs 50 mins   [=====================....]    84.09 %
-Bash                0 hrs 16 mins   [==.......................]    8.08 %
-VimL                0 hrs 10 mins   [=........................]    5.16 %
-YAML                0 hrs 5 mins    [.........................]    2.56 %
+TypeScript          2 hrs 50 mins   [=====================....]    84.13 %
+Bash                0 hrs 16 mins   [==.......................]    8.06 %
+VimL                0 hrs 10 mins   [=........................]    5.15 %
+YAML                0 hrs 5 mins    [.........................]    2.55 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -64,7 +65,7 @@ YAML                0 hrs 5 mins    [.........................]    2.56 %
 ```txt
 Total Time: 277 hrs 9 mins
 
-TypeScript          150 hrs 33 mins [=============............]    54.33 %
+TypeScript          150 hrs 34 mins [=============............]    54.33 %
 Vue                 30 hrs 4 mins   [==.......................]    10.85 %
 Go                  26 hrs 39 mins  [==.......................]    9.61 %
 Bash                13 hrs 10 mins  [=........................]    4.75 %
