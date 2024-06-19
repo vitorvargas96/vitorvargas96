@@ -39,12 +39,12 @@ Total Time: 0 hrs 0 mins
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 3 hrs 23 mins
+Total Time: 3 hrs 22 mins
 
-TypeScript          2 hrs 48 mins   [====================.....]    82.83 %
-Bash                0 hrs 19 mins   [==.......................]    9.36 %
-VimL                0 hrs 10 mins   [=........................]    5.14 %
-YAML                0 hrs 5 mins    [.........................]    2.55 %
+TypeScript          2 hrs 50 mins   [=====================....]    84.09 %
+Bash                0 hrs 16 mins   [==.......................]    8.08 %
+VimL                0 hrs 10 mins   [=........................]    5.16 %
+YAML                0 hrs 5 mins    [.........................]    2.56 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
@@ -64,10 +64,10 @@ YAML                0 hrs 5 mins    [.........................]    2.55 %
 ```txt
 Total Time: 277 hrs 9 mins
 
-TypeScript          150 hrs 31 mins [=============............]    54.31 %
+TypeScript          150 hrs 33 mins [=============............]    54.33 %
 Vue                 30 hrs 4 mins   [==.......................]    10.85 %
 Go                  26 hrs 39 mins  [==.......................]    9.61 %
-Bash                13 hrs 13 mins  [=........................]    4.77 %
+Bash                13 hrs 10 mins  [=........................]    4.75 %
 JSON                12 hrs 14 mins  [=........................]    4.41 %
 Python              9 hrs 11 mins   [.........................]    3.31 %
 JavaScript          6 hrs 35 mins   [.........................]    2.38 %
