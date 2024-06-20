@@ -18,11 +18,12 @@ Basically, I'm a hardworking guy who loves what he does. I take pride in my work
 &nbsp;
 
 <!--DEVTIMER:TODAY:START-->
-
+<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 0 hrs 0 mins
+Total Time: 0 hrs 2 mins
 
+Bash                0 hrs 2 mins    [=========================]    100.00 %
 ```
 
 <!--DEVTIMER:TODAY:END-->
@@ -41,9 +42,9 @@ Total Time: 0 hrs 0 mins
 ```txt
 Total Time: 5 hrs 56 mins
 
-TypeScript          5 hrs 24 mins   [======================...]    90.97 %
-Bash                0 hrs 16 mins   [=........................]    4.58 %
-VimL                0 hrs 10 mins   [.........................]    2.93 %
+TypeScript          5 hrs 22 mins   [======================...]    90.30 %
+Bash                0 hrs 19 mins   [=........................]    5.25 %
+VimL                0 hrs 10 mins   [.........................]    2.92 %
 YAML                0 hrs 5 mins    [.........................]    1.45 %
 ```
 
@@ -64,10 +65,10 @@ YAML                0 hrs 5 mins    [.........................]    1.45 %
 ```txt
 Total Time: 279 hrs 43 mins
 
-TypeScript          153 hrs 7 mins  [=============............]    54.75 %
+TypeScript          153 hrs 5 mins  [=============............]    54.73 %
 Vue                 30 hrs 4 mins   [==.......................]    10.75 %
 Go                  26 hrs 39 mins  [==.......................]    9.53 %
-Bash                13 hrs 10 mins  [=........................]    4.71 %
+Bash                13 hrs 13 mins  [=........................]    4.72 %
 JSON                12 hrs 14 mins  [=........................]    4.37 %
 Python              9 hrs 11 mins   [.........................]    3.28 %
 JavaScript          6 hrs 35 mins   [.........................]    2.35 %
