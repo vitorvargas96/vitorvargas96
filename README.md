@@ -39,12 +39,12 @@ Total Time: 0 hrs 0 mins
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 8 hrs 9 mins
+Total Time: 8 hrs 11 mins
 
-TypeScript          7 hrs 20 mins   [======================...]    90.00 %
-Bash                0 hrs 22 mins   [=........................]    4.47 %
-VimL                0 hrs 10 mins   [.........................]    2.13 %
-YAML                0 hrs 8 mins    [.........................]    1.72 %
+TypeScript          7 hrs 22 mins   [======================...]    90.04 %
+Bash                0 hrs 22 mins   [=........................]    4.45 %
+VimL                0 hrs 10 mins   [.........................]    2.12 %
+YAML                0 hrs 8 mins    [.........................]    1.71 %
 gitrebase           0 hrs 5 mins    [.........................]    1.10 %
 HTML                0 hrs 2 mins    [.........................]    0.35 %
 ```
@@ -64,17 +64,17 @@ HTML                0 hrs 2 mins    [.........................]    0.35 %
 <img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/carrd/fff" alt="JSON" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/markdown/fff" alt="Markdown" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/yaml/fff" alt="YAML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/academia/fff" alt="Text" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" />&nbsp;&nbsp;&nbsp;
 
 ```txt
-Total Time: 281 hrs 56 mins
+Total Time: 281 hrs 58 mins
 
-TypeScript          155 hrs 4 mins  [=============............]    55.00 %
-Vue                 30 hrs 4 mins   [==.......................]    10.67 %
+TypeScript          155 hrs 6 mins  [=============............]    55.01 %
+Vue                 30 hrs 4 mins   [==.......................]    10.66 %
 Go                  26 hrs 39 mins  [==.......................]    9.45 %
 Bash                13 hrs 16 mins  [=........................]    4.70 %
 JSON                12 hrs 14 mins  [=........................]    4.34 %
-Python              9 hrs 11 mins   [.........................]    3.26 %
+Python              9 hrs 11 mins   [.........................]    3.25 %
 JavaScript          6 hrs 35 mins   [.........................]    2.33 %
 Markdown            5 hrs 48 mins   [.........................]    2.06 %
-YAML                5 hrs 31 mins   [.........................]    1.96 %
+YAML                5 hrs 31 mins   [.........................]    1.95 %
 SCSS                3 hrs 9 mins    [.........................]    1.11 %
 Docker              2 hrs 49 mins   [.........................]    1.00 %
 HTML                1 hrs 47 mins   [.........................]    0.63 %
