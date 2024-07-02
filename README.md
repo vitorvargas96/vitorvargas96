@@ -41,10 +41,10 @@ Total Time: 0 hrs 0 mins
 ```txt
 Total Time: 1 hrs 17 mins
 
-TypeScript          1 hrs 10 mins   [======================...]    90.84 %
-VimL                0 hrs 3 mins    [=........................]    4.26 %
-Bash                0 hrs 2 mins    [.........................]    3.07 %
-Vue                 0 hrs 1 mins    [.........................]    1.35 %
+TypeScript          1 hrs 10 mins   [======================...]    90.33 %
+VimL                0 hrs 3 mins    [=........................]    4.24 %
+Bash                0 hrs 2 mins    [.........................]    3.05 %
+Vue                 0 hrs 1 mins    [.........................]    1.34 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
