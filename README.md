@@ -36,15 +36,11 @@ Total Time: 0 hrs 0 mins
 &nbsp;
 
 <!--DEVTIMER:WEEK:START-->
-<img align="center" width="32px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/gnubash/fff" alt="Bash" />&nbsp;&nbsp;&nbsp;<img align="center" width="32px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />&nbsp;&nbsp;&nbsp;
+
 
 ```txt
-Total Time: 1 hrs 1 mins
+Total Time: 0 hrs 0 mins
 
-TypeScript          0 hrs 53 mins   [=====================....]    87.70 %
-VimL                0 hrs 3 mins    [=........................]    5.39 %
-Bash                0 hrs 2 mins    [.........................]    3.88 %
-Vue                 0 hrs 1 mins    [.........................]    1.71 %
 ```
 
 <!--DEVTIMER:WEEK:END-->
